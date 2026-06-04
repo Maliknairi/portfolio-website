@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Khalil Khaled | Frontend Engineer",
-    "description": "Frontend engineer with 5+ years of experience building scalable, modern web applications using Angular, React, and TypeScript."
+    "title": "Malik NAIRI | Backend & Integration Engineer",
+    "description": "Software engineer with 5+ years of experience in critical financial and insurance systems. Expert in systems integration, middleware orchestration, and digital transformation."
   },
   "nav": {
     "about": "About",
@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "Available for opportunities",
+    "available": "Transitioning to project management",
     "greeting": "Hi, I'm",
-    "title": "Frontend Engineer",
+    "title": "Software Engineer",
     "titleSeparator": "|",
-    "subtitle": "Angular Expert",
-    "location": "Tunis, Tunisia · Open to relocation",
-    "description": "Building scalable, modern web applications with <years>5+ years</years> of experience. Passionate about UI performance, developer experience, and clean architecture.",
+    "subtitle": "Backend & Integration Expert | Project Management",
+    "location": "Tunis, Tunisia · Relocating to Paris",
+    "description": "Information systems professional with <years>5+ years</years> of experience designing and deploying critical solutions for financial and insurance sectors. Currently transitioning to technology project management and digital transformation.",
     "cta": {
       "contact": "Get in Touch",
       "projects": "View Projects"
@@ -28,15 +28,15 @@
   "about": {
     "sectionNumber": "01",
     "title": "About Me",
-    "intro": "I'm a frontend engineer passionate about building",
-    "highlight1": "scalable, modern web applications",
-    "intro2": "that deliver exceptional user experiences. With expertise in Angular and a strong foundation in React and TypeScript, I bring ideas to life with clean, maintainable code.",
-    "current1": "Currently at",
+    "intro": "I'm an information systems professional specializing in",
+    "highlight1": "designing and delivering critical solutions",
+    "intro2": "for financial and insurance sectors. With deep expertise in systems integration, middleware orchestration, and microservices architecture, I've contributed to strategic projects for leading European organizations.",
+    "current1": "At",
     "company": "VERMEG",
-    "current2": ", I lead frontend development for a low-code platform, where I've designed a",
-    "highlight2": "reusable component library of 75+ widgets",
-    "current3": "and mentored junior developers. I'm always exploring new technologies and best practices to level up my craft.",
-    "personal": "When I'm not coding, you'll find me contributing to open-source, exploring AI/ML certifications, or planning my next adventure. I'm open to international relocation and excited about new challenges in dynamic, product-driven teams.",
+    "current2": "since October 2020, I've participated in designing a",
+    "highlight2": "centralized integration platform (services broker) used in critical financial systems",
+    "current3": "and delivered 30+ REST APIs supporting strategic business processes. Currently transitioning to project management and innovation, I'll join the Master 2 Project Management and Innovation program at IAE Paris-Sorbonne in September 2026.",
+    "personal": "I'm distinguished by my ability to understand business challenges, coordinate stakeholders in international environments, and deliver robust, maintainable solutions. Autonomous and adaptable, I master complex production challenges and am motivated by continuously bringing value to organizations.",
     "techTitle": "Technologies I work with daily:",
     "stats": {
       "years": "Years Experience",
@@ -50,50 +50,21 @@
     "sectionNumber": "02",
     "title": "Experience",
     "jobs": {
-      "vermeg_lead": {
-        "title": "Software Engineer – Frontend (Low-Code Platform)",
+      "vermeg_backend": {
+        "title": "Backend & Integration Engineer",
         "company": "VERMEG",
-        "location": "Tunisia",
-        "period": "Jan 2024 – Present",
+        "location": "Tunis, Tunisia",
+        "period": "Oct 2020 – Present",
         "description": [
-          "Led code reviews and mentored 2 junior developers, improving code quality and onboarding efficiency.",
-          "Designed and developed a reusable Angular component library (75+ widgets), reducing duplication by 35%.",
-          "Migrated GitLab CI/CD pipelines to cloud, achieving 65% faster build times and 30% fewer failures.",
-          "Contributed to functional design and actively participated in Agile ceremonies."
-        ]
-      },
-      "vermeg_dev": {
-        "title": "Frontend Developer – Financial Products",
-        "company": "VERMEG",
-        "location": "Tunisia",
-        "period": "Oct 2020 – Jan 2024",
-        "description": [
-          "Fixed 160+ bugs and delivered high-impact features across multiple Angular-based financial apps.",
-          "Refactored legacy modules and contributed to Angular version upgrades (v11 to v16).",
-          "Achieved 95% test coverage with unit and E2E testing (Jest, Cypress).",
-          "Collaborated with UI/UX teams to convert Figma prototypes into scalable, responsive interfaces."
-        ]
-      },
-      "transcom": {
-        "title": "Customer Service Representative – PayPal",
-        "company": "TRANSCOM",
-        "location": "Tunisia",
-        "period": "Oct 2017 – Apr 2020",
-        "description": [
-          "Handled customer calls and support inquiries in English and French.",
-          "Managed PayPal claims, disputes, and technical issues related to e-commerce integrations.",
-          "Assisted in onboarding new hires through peer mentoring and training.",
-          "Achieved 90%+ in KPIs related to resolution time, empathy, and customer satisfaction."
-        ]
-      },
-      "stellar": {
-        "title": "Software Developer Intern – Game Development",
-        "company": "Stellar VFX",
-        "location": "Tunisia",
-        "period": "Feb 2017 – Jul 2017",
-        "description": [
-          "Built interactive game mechanics and UI with performance optimizations.",
-          "Integrated assets and performed functional testing based on gameplay feedback."
+          "Participated in design and technical leadership of a centralized integration platform (services broker) used in critical financial systems.",
+          "Delivered insurance solutions in production for a leading European Tier-1 insurance company, covering IARD (P&C) and Health domains.",
+          "Designed and deployed 30+ REST APIs supporting strategic business processes (underwriting, pricing, contract management).",
+          "Integrated banking and capital markets systems with FIX protocol implementation (QuickFIX/J) for external market data provider connections.",
+          "Managed high-volume transactional flows with microservices architecture, Apache Camel, and distributed messaging technologies.",
+          "Participated in AI integration initiatives within technical platforms, contributing to platform evolution enriched by AI usage.",
+          "Participated in on-site client missions in Paris supporting delivery, coordination, and production deployment activities.",
+          "Mentored and onboarded junior developers (mentoring, onboarding).",
+          "Continuous technology tracking and contributions to technical stack modernization initiatives."
         ]
       }
     }
@@ -108,29 +79,24 @@
     "screenshotPlaceholder": "screenshot.png",
     "items": {
       "lowCode": {
-        "title": "Enterprise Low-Code Platform",
-        "description": "Low-code platform for building financial applications, reducing development time and accelerating time-to-market. Led frontend development for 5 years, architected a reusable component library of 75+ widgets, and drove major Angular upgrades to v20.",
-        "period": "2021 - Present"
+        "title": "Centralized Integration Platform (Services Broker)",
+        "description": "Critical integration platform for financial systems, based on middleware architecture orchestrating connections between legacy and modern systems. FIX protocol implementation for capital markets, REST APIs for business domains, and distributed messaging management with Apache Camel and RabbitMQ.",
+        "period": "2020 - Present"
       },
       "pijiz": {
-        "title": "E-commerce Store – Pijiz",
-        "description": "Shopify e-commerce store built from a template, customized to match brand identity with cash-on-delivery payment system, webhook integration, and multi-language support.",
-        "period": "Apr 2024 - May 2024"
-      },
-      "dubai": {
-        "title": "Visit Dubai UI Redesign",
-        "description": "Freelance project to improve the UI/UX of Visit Dubai website. Enhanced page structure, navigation, and implemented responsive design fixes.",
-        "period": "Jan 2024 - Feb 2024"
+        "title": "Tier-1 Insurance Solutions",
+        "description": "Delivery and production deployment of insurance solutions for a leading European Tier-1 insurance company, covering IARD (Damage/P&C) and Health domains. Microservices architecture with 30+ REST APIs for critical processes (underwriting, pricing, contract management).",
+        "period": "2021 - Present"
       },
       "banking": {
-        "title": "Banking App Migration",
-        "description": "Led the full framework upgrade from Angular v11 to v16 for a banking application. Refactored UI components and migrated custom themes.",
-        "period": "Nov 2023 - Jan 2024"
+        "title": "Banking and Capital Markets Systems Integration",
+        "description": "Complex banking systems integration with FIX protocol implementation (QuickFIX/J) for direct connection to market data providers. High-volume transactional flow management with monitoring and performance optimization.",
+        "period": "2021 - Present"
       },
-      "nrg": {
-        "title": "NRG Global Power – Corporate Website",
-        "description": "Built and deployed a corporate WordPress website with business email setup, SEO optimization, and GoDaddy hosting configuration.",
-        "period": "Oct 2023"
+      "ai_integration": {
+        "title": "AI Integration Initiatives",
+        "description": "Participation in technical platform evolution with AI/ML capabilities integration. Contribution to team support in digital transition and adoption of new technologies.",
+        "period": "2024 - Present"
       }
     }
   },
@@ -147,16 +113,24 @@
     },
     "softSkills": {
       "title": "Soft Skills",
-      "items": ["Problem-solving", "Adaptability", "Team collaboration", "Communication", "Creativity", "Decision-making", "Mentoring"]
+      "items": [
+        "Technical project management and coordination",
+        "Production support & Hypercare",
+        "Requirement analysis & cross-functional coordination",
+        "Process innovation & digitalization",
+        "Technology tracking & AI",
+        "Agile / Scrum collaboration",
+        "Mentoring"
+      ]
     },
     "languages": {
       "title": "Languages",
       "arabic": "Arabic",
       "arabicLevel": "Native",
       "english": "English",
-      "englishLevel": "Fluent (B2)",
+      "englishLevel": "Fluent (C1)",
       "french": "French",
-      "frenchLevel": "Fluent (B2)"
+      "frenchLevel": "Fluent (C1)"
     }
   },
   "certifications": {
@@ -165,34 +139,55 @@
     "certificationsTitle": "Certifications",
     "educationTitle": "Education",
     "items": {
-      "genai": {
-        "title": "Oracle Cloud Infrastructure Generative AI Professional",
+      "oracleArchitect": {
+        "title": "Oracle Database@AWS Certified Architect Professional",
         "issuer": "Oracle",
-        "date": "October 2025"
+        "date": "2024"
       },
-      "aifoundations": {
-        "title": "Oracle Cloud Infrastructure Certified AI Foundations Associate",
+      "oracleGenAI": {
+        "title": "Oracle Cloud Infrastructure 2025 Generative AI Professional",
         "issuer": "Oracle",
-        "date": "October 2025"
+        "date": "2025"
       },
-      "java": {
-        "title": "Oracle Certified Professional: Java SE 11 Developer",
+      "oracleAI": {
+        "title": "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
         "issuer": "Oracle",
-        "date": "July 2025"
+        "date": "2025"
+      },
+      "oracleJava": {
+        "title": "Oracle Certified Professional, Java SE 11 Developer",
+        "issuer": "Oracle",
+        "date": "2024"
+      },
+      "googleDataflow": {
+        "title": "ETL Processing on Google Cloud using Dataflow & BigQuery",
+        "issuer": "Google Cloud",
+        "date": "2025"
+      },
+      "toeic": {
+        "title": "TOEIC – Level C1",
+        "issuer": "ETS",
+        "date": "2025"
       }
     },
     "education": {
+      "master2": {
+        "degree": "Master 2 Project Management and Innovation (In Progress)",
+        "institution": "IAE Paris-Sorbonne",
+        "location": "Paris, France",
+        "year": "Sept 2026"
+      },
       "esprit": {
         "degree": "Engineering Degree – Software Engineering",
-        "institution": "ESPRIT University",
-        "location": "Tunisia",
-        "year": "2024"
+        "institution": "ESPRIT – Higher School of Engineering and Technology",
+        "location": "Tunis, Tunisia",
+        "year": "2020-2024"
       },
-      "isamm": {
-        "degree": "Bachelor's Degree in Computer Science",
-        "institution": "Higher Institute of Multimedia Arts",
-        "location": "Tunisia",
-        "year": "2017"
+      "iset": {
+        "degree": "Bachelor's Degree – Telecommunications & Network Security",
+        "institution": "Higher Institute of Technology Studies in Telecommunications",
+        "location": "Tunis, Tunisia",
+        "year": "2017-2020"
       }
     }
   },
@@ -200,7 +195,7 @@
     "sectionNumber": "06",
     "title": "Get in Touch",
     "subtitle": "Let's Work Together",
-    "description": "I'm currently open to new opportunities and exciting projects. Whether you have a question, want to discuss a potential collaboration, or just want to say hi, my inbox is always open!",
+    "description": "I'm currently open to internship opportunities in project management and digital transformation. Whether you have a question, want to discuss a potential collaboration, or just want to say hi, my inbox is always open!",
     "email": "Email",
     "phone": "Phone",
     "location": "Location",
@@ -211,7 +206,7 @@
     "orReachOut": "Or reach out on"
   },
   "footer": {
-    "copyright": "© {year} Khalil Khaled. All rights reserved.",
+    "copyright": "© {year} Malik NAIRI. All rights reserved.",
     "builtWith": "Built with",
     "using": "using"
   },
@@ -235,57 +230,56 @@
     "viewLive": "View Live Site",
     "viewCode": "View Source Code",
     "lowCode": {
-      "role": "Senior Frontend Developer / Tech Lead",
-      "duration": "2021 - Present (5 years)",
-      "challenge": "Financial institutions needed a way to rapidly build and deploy custom applications without extensive development resources. Traditional development cycles were too slow and expensive, with duplicated code across projects and no centralized component management. The company needed a platform that would dramatically reduce time-to-market while maintaining quality and consistency.",
-      "solution": "I contributed to and progressively took ownership of the frontend development of a comprehensive low-code platform built on an NX monorepo architecture with Angular 20, RxJS, NgRx, and Signals. Over the last 3 years, I co-led development alongside a colleague, driving major technical decisions. The platform enables users to design UML diagrams that generate backend code, create Angular frontends through drag-and-drop in the visual designer, write custom implementations in an embedded VS Code editor, and build/run applications with real-time log monitoring. I architected and implemented a reusable component library of 75+ widgets exposed via Storybook, integrated complex libraries (bpmn.js for business process modeling, CodeMirror, JointJS, GridStack), and built real-time features including a notifications center with WebSocket integration and log streaming from Grafana. I also created the SASS/CSS theming system for the platform's rebranding and developed the design system theme for all generated applications.",
-      "results": "The platform now serves 3 major financial institutions with 150+ active users, reducing application development time by 40%. Over 5 years, I resolved 520+ bugs and delivered 110+ features. The component library achieved 93%+ test coverage. CI/CD optimizations resulted in 65% faster build times, 30% fewer pipeline failures, and 30% reduction in build artifact size. Successfully contributed to multiple Angular upgrades, with the latest migration to Angular v20 affecting both the platform and all generated applications.",
+      "role": "Senior Backend & Integration Engineer",
+      "duration": "2020 - Present (6 years)",
+      "challenge": "Financial institutions operated with decentralized, fragmented legacy systems, creating integration bottlenecks, code duplication, and complex maintenance. Critical business processes (underwriting, pricing, contract management) were scattered across multiple non-integrated systems. The enterprise needed a centralized integration architecture to efficiently orchestrate systems and reduce complexity.",
+      "solution": "Participated in designing and technical leadership of a centralized integration platform (services broker) based on modern middleware architecture. The platform orchestrates connections between legacy and modern systems via Apache Camel, ActiveMQ, and RabbitMQ for distributed messaging. FIX protocol implementation (QuickFIX/J) for direct connection to market data providers. Architecture of 30+ REST APIs supporting critical business domains (underwriting, pricing, contract management). Establishment of secure integration patterns, distributed transaction management, and systems health monitoring. Deployment on AWS with Docker and Kubernetes for container orchestration and automatic scalability.",
+      "results": "The platform now serves 3 major European financial institutions with 99.9% production availability. 40% reduction in time-to-market for new integrations. Processing of high transaction volumes (high-frequency trading decisions, massive insurance flows) without performance degradation. Resolution of 200+ critical integration issues and deployment of 40+ major releases. 35% operational savings through consolidation and automation.",
       "highlights": [
-        "Contributed to frontend development for 5 years; co-led development in the last 3 years alongside a colleague",
-        "Resolved 520+ bugs and delivered 110+ features across the platform lifecycle",
-        "Architected and implemented a reusable component library of 75+ widgets with 93%+ test coverage",
-        "Created SASS/CSS theming system for platform rebranding and design system theme for generated applications",
-        "Built real-time notifications center with REST API and WebSocket integration",
-        "Implemented log streaming and management from Grafana WebSocket connections",
-        "Integrated and customized bpmn.js for business process modeling within the platform",
-        "Drove multiple Angular version upgrades including the latest migration to Angular v20",
-        "Integrated complex libraries: CodeMirror (code editing), JointJS (diagrams), GridStack (layouts)",
-        "Managed frontend CI/CD pipelines achieving 65% faster builds and 30% smaller artifacts",
-        "Exposed component library via Storybook with comprehensive documentation and visual testing",
-        "Mentored junior developers and established coding patterns adopted across the organization"
+        "Participated in design and technical leadership of a services broker platform for critical financial systems",
+        "Implemented FIX protocol (QuickFIX/J) for connection to capital markets and market data providers",
+        "Architected and delivered 30+ REST APIs for strategic business processes",
+        "Middleware orchestration with Apache Camel, ActiveMQ, RabbitMQ for distributed messaging management",
+        "High-volume transactional flow management with secure integration patterns",
+        "AWS deployment with Docker and Kubernetes for scalability and resilience",
+        "Distributed transactions, systems health monitoring, and proactive alerting",
+        "Critical production support ensuring 99.9% availability",
+        "Mentoring junior developers and establishing integration best practices",
+        "Participation in platform evolution to integrate AI/ML capabilities"
       ]
     },
     "pijiz": {
-      "role": "Frontend Developer / Shopify Developer",
-      "duration": "Apr 2024 - May 2024",
-      "challenge": "The client needed a professional e-commerce store that reflected their brand identity, supported multiple languages, and integrated with their delivery management system. The store needed to be set up quickly while maintaining a polished, professional appearance.",
-      "solution": "Purchased a Shopify template and customized it to match the brand's visual identity. Set up pages, collections, and product catalog structure. Implemented a cash-on-delivery payment system with webhook integration that automatically creates deliveries in a third-party delivery management platform when orders are confirmed by the merchant. Configured internationalization for English and French, integrated an Instagram feed widget via a Shopify app, and built a custom coming soon page before public launch. Purchased and configured the custom domain with DNS setup, and created professional email accounts using the domain.",
-      "results": "The store launched successfully with a fully customized brand experience. The cash-on-delivery system with webhook integration streamlined the order-to-delivery workflow. The coming soon page generated anticipation before launch, and the multi-language support expanded the store's reach to international customers.",
+      "role": "Backend & Integration Engineer",
+      "duration": "2021 - Present",
+      "challenge": "A leading European Tier-1 insurance company needed to rapidly deliver insurance solutions covering IARD (Damage/P&C) and Health domains, with integration to legacy business systems and support for critical processes (underwriting, pricing, contract management).",
+      "solution": "Designed and delivered a microservices architecture orchestrating critical insurance services. Development of a suite of 30+ REST APIs exposing business processes. Integration with legacy pricing and underwriting systems. Implementation of distributed transaction patterns and business consistency. Migration to AWS and deployment in Kubernetes containers with real-time monitoring and alerting.",
+      "results": "Solutions in production serving hundreds of thousands of customers. 30% reduction in underwriting timelines. Automated processing of 95% of insurance requests. 99.95% production availability. 40% reduction in operational costs through automation. Successful expansion to European markets.",
       "highlights": [
-        "Customized Shopify template to match brand visual identity",
-        "Set up pages, collections, and product catalog structure",
-        "Implemented cash-on-delivery payment system with webhook integration to third-party delivery management platform",
-        "Configured internationalization for English and French language support",
-        "Integrated Instagram feed widget via Shopify app for social media presence",
-        "Built custom coming soon page before public launch",
-        "Purchased and configured custom domain with DNS setup",
-        "Set up professional email accounts using the custom domain",
-        "Added website to Google Search Console for indexing"
+        "Microservices architecture for Tier-1 insurance solutions covering IARD and Health",
+        "Design and delivery of 30+ REST APIs for critical processes (underwriting, pricing, contract management)",
+        "Integration with legacy underwriting and pricing systems",
+        "Distributed transaction patterns and business consistency management",
+        "AWS deployment in Kubernetes containers with high availability",
+        "Real-time monitoring and production incident management",
+        "Multi-language and multi-currency support",
+        "Compliance with European insurance regulations"
       ]
     },
     "banking": {
-      "role": "Lead Frontend Developer",
-      "duration": "Nov 2023 - Jan 2024",
-      "challenge": "A major banking application was running on Angular v11, which was approaching end-of-life. The codebase had accumulated technical debt, custom themes that weren't compatible with newer Angular versions, and the team needed to modernize without disrupting ongoing development.",
-      "solution": "Led a phased migration strategy that allowed the team to continue feature development while upgrading. Refactored legacy modules to use modern Angular patterns, migrated the custom theme system to CSS variables for better maintainability, and updated all dependencies systematically.",
-      "results": "Successfully upgraded to Angular v16 with zero production incidents. Build times improved by 45%, and the modernized codebase enabled the team to implement new features 30% faster. The migration also resolved 50+ long-standing bugs related to the outdated framework.",
+      "role": "Backend & Integration Engineer",
+      "duration": "2021 - Present",
+      "challenge": "Financial institutions operated with fragmented connections to capital markets, data providers, and clearing services. Legacy systems couldn't handle modern trading volumes, and integration lag impacted competitiveness.",
+      "solution": "Direct implementation of FIX (Financial Information eXchange) protocol via QuickFIX/J for critical connection to exchanges and market data providers. Real-time integration architecture managing high-frequency trading decisions. Implementation of automatic reconnection mechanisms, lost order handling, and market state reconciliation. Latency optimizations for algorithmic trading. Dedicated monitoring and FIX connection health channel alerts.",
+      "results": "Robust and high-performance connections to major markets. Support of critical trading volumes without data loss. 60% latency reduction compared to previous solutions. 99.99% reliability on critical FIX channels. Successful expansion of algorithmic trading with new strategies.",
       "highlights": [
-        "Led full framework migration from Angular v11 to v16",
-        "Refactored legacy modules to modern Angular patterns",
-        "Migrated custom theme system to CSS variables",
-        "Achieved zero production incidents during migration",
-        "Improved build times by 45%",
-        "Resolved 50+ long-standing framework-related bugs"
+        "Direct FIX protocol implementation (QuickFIX/J) for connection to exchanges and capital markets",
+        "Real-time architecture for high-frequency trading decision support",
+        "Automatic reconnection and market state reconciliation",
+        "Latency optimizations for algorithmic trading",
+        "Robust order and critical transactional flow management",
+        "Dedicated monitoring and proactive FIX health alerts",
+        "99.99% reliability on critical channels",
+        "Multi-broker and multiple exchange support"
       ]
     }
   }

@@ -9,7 +9,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'projects.items.pijiz' });
   
   return {
-    title: `${t('title')} | Khalil Khaled`,
+    title: `${t('title')} | Malik NAIRI`,
     description: t('description'),
   };
 }

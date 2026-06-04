@@ -63,8 +63,8 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-5xl sm:text-6xl md:text-7xl font-bold mb-4"
           >
-            <span className="text-day-text dark:text-night-text">Khalil </span>
-            <span className="text-gradient">Khaled</span>
+            <span className="text-day-text dark:text-night-text">Malik </span>
+            <span className="text-gradient">NAIRI</span>
           </motion.h1>
 
           {/* Title */}
@@ -140,9 +140,9 @@ export function Hero() {
             className="flex items-center justify-center gap-4"
           >
             {[
-              { icon: Github, href: 'https://github.com/Khalil-Khaled', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://linkedin.com/in/khalil-khaled', label: 'LinkedIn' },
-              { icon: Mail, href: 'mailto:khalilkhaled1995@gmail.com', label: 'Email' },
+              { icon: Github, href: 'https://github.com/malik-nairi', label: 'GitHub' },
+              { icon: Linkedin, href: 'https://linkedin.com/in/malik-nairi-388129172', label: 'LinkedIn' },
+              { icon: Mail, href: 'mailto:nairimalek10@gmail.com', label: 'Email' },
             ].map((social) => (
               <motion.a
                 key={social.label}

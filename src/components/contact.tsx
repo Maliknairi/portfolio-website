@@ -40,15 +40,15 @@ export function Contact() {
     {
       icon: Mail,
       labelKey: 'email',
-      value: 'khalilkhaled1995@gmail.com',
-      href: 'mailto:khalilkhaled1995@gmail.com',
+      value: 'nairimalek10@gmail.com',
+      href: 'mailto:nairimalek10@gmail.com',
       copyable: true,
     },
     {
       icon: Phone,
       labelKey: 'phone',
-      value: '+216 20233656',
-      href: 'tel:+21620233656',
+      value: '+216 24637426',
+      href: 'tel:+21624637426',
       copyable: true,
     },
     {
@@ -64,12 +64,12 @@ export function Contact() {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/khalil-khaled',
+      href: 'https://linkedin.com/in/malik-nairi-388129172',
     },
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/Khalil-Khaled',
+      href: 'https://github.com/malik-nairi',
     },
   ];
 
@@ -190,7 +190,7 @@ export function Contact() {
                 </div>
 
                 <motion.a
-                  href="mailto:khalilkhaled1995@gmail.com"
+                  href="mailto:nairimalek10@gmail.com"
                   className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full bg-day-accent dark:bg-night-cyan text-white dark:text-night-bg font-medium transition-all hover:shadow-xl hover:shadow-day-accent/25 dark:hover:shadow-night-cyan/25"
                   whileHover={{ scale: 1.05, y: -2 }}
                   whileTap={{ scale: 0.95 }}
@@ -202,7 +202,7 @@ export function Contact() {
                 <p className="mt-4 text-xs text-day-comment dark:text-night-comment">
                   {t('orReachOut')}{' '}
                   <a
-                    href="https://linkedin.com/in/khalil-khaled"
+                    href="https://linkedin.com/in/malik-nairi-388129172"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-day-accent dark:text-night-cyan hover:underline"

@@ -30,9 +30,9 @@ export function Footer() {
           {/* Social Links */}
           <div className="flex items-center gap-4">
             {[
-              { icon: Github, href: 'https://github.com/Khalil-Khaled', label: 'GitHub' },
-              { icon: Linkedin, href: 'https://linkedin.com/in/khalil-khaled', label: 'LinkedIn' },
-              { icon: Mail, href: 'mailto:khalilkhaled1995@gmail.com', label: 'Email' },
+              { icon: Github, href: 'https://github.com/malik-nairi', label: 'GitHub' },
+              { icon: Linkedin, href: 'https://linkedin.com/in/malik-nairi-388129172', label: 'LinkedIn' },
+              { icon: Mail, href: 'mailto:nairimalek10@gmail.com', label: 'Email' },
             ].map((social) => (
               <motion.a
                 key={social.label}

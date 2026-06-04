@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Khalil Khaled | Ingénieur Frontend",
-    "description": "Ingénieur frontend avec plus de 5 ans d'expérience dans la création d'applications web modernes et évolutives avec Angular, React et TypeScript."
+    "title": "Malik NAIRI | Ingénieur Backend & Intégration",
+    "description": "Ingénieur logiciel avec plus de 5 ans d'expérience en systèmes critiques bancaire et assurantiel. Expert en intégration, orchestration de systèmes et transformation digitale."
   },
   "nav": {
     "about": "À propos",
@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "Disponible pour de nouvelles opportunités",
+    "available": "En transition vers le management de projet",
     "greeting": "Bonjour, je suis",
-    "title": "Ingénieur Frontend",
+    "title": "Ingénieur Logiciel",
     "titleSeparator": "|",
-    "subtitle": "Expert Angular",
-    "location": "Tunis, Tunisie · Ouvert à la relocalisation",
-    "description": "Création d'applications web modernes et évolutives avec <years>5+ ans</years> d'expérience. Passionné par la performance UI, l'expérience développeur et l'architecture propre.",
+    "subtitle": "Expert Backend & Intégration | Management de Projet",
+    "location": "Tunis, Tunisie · Relocalisation vers Paris",
+    "description": "Professionnel des systèmes d'information avec <years>5+ ans</years> d'expérience dans la conception et la mise en production de solutions critiques pour les secteurs bancaire et assurantiel. Actuellement en transition vers le pilotage de projets technologiques et la transformation digitale.",
     "cta": {
       "contact": "Me Contacter",
       "projects": "Voir les Projets"
@@ -28,15 +28,15 @@
   "about": {
     "sectionNumber": "01",
     "title": "À Propos de Moi",
-    "intro": "Je suis un ingénieur frontend passionné par la création d'",
-    "highlight1": "applications web modernes et évolutives",
-    "intro2": "qui offrent des expériences utilisateur exceptionnelles. Avec une expertise en Angular et une solide base en React et TypeScript, je donne vie aux idées avec un code propre et maintenable.",
-    "current1": "Actuellement chez",
+    "intro": "Je suis un professionnel des systèmes d'information spécialisé dans",
+    "highlight1": "la conception et la livraison de solutions critiques",
+    "intro2": "pour les secteurs bancaire et assurantiel. Avec une expertise approfondie en intégration de systèmes, orchestration middleware et architecture microservices, j'ai contribué à des projets stratégiques pour des acteurs européens de premier plan.",
+    "current1": "Chez",
     "company": "VERMEG",
-    "current2": ", je dirige le développement frontend d'une plateforme low-code, où j'ai conçu une",
-    "highlight2": "bibliothèque de composants réutilisables de 75+ widgets",
-    "current3": "et mentoré des développeurs juniors. J'explore constamment de nouvelles technologies et bonnes pratiques pour améliorer mes compétences.",
-    "personal": "Quand je ne code pas, vous me trouverez en train de contribuer à l'open-source, d'explorer des certifications AI/ML, ou de planifier ma prochaine aventure. Je suis ouvert à la relocalisation internationale et enthousiaste face aux nouveaux défis dans des équipes dynamiques orientées produit.",
+    "current2": "depuis octobre 2020, j'ai participé à la conception d'une",
+    "highlight2": "plateforme d'intégration centralisée (broker de services) utilisée dans des systèmes financiers critiques",
+    "current3": "et livré plus de 30 APIs REST supportant des processus métier stratégiques. Actuellement en transition vers le management de projet et l'innovation, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",
+    "personal": "Je me distingue par ma capacité à comprendre les enjeux métier, coordonner les parties prenantes dans des environnements internationaux, et livrer des solutions robustes et maintenables. Autonome et adaptable, je maîtrise les défis de production complexes et suis motivé par l'apport continu de valeur aux organisations.",
     "techTitle": "Technologies que j'utilise quotidiennement :",
     "stats": {
       "years": "Ans d'Expérience",
@@ -50,50 +50,21 @@
     "sectionNumber": "02",
     "title": "Expérience",
     "jobs": {
-      "vermeg_lead": {
-        "title": "Ingénieur Logiciel – Frontend (Plateforme Low-Code)",
+      "vermeg_backend": {
+        "title": "Ingénieur Backend & Intégration",
         "company": "VERMEG",
-        "location": "Tunisie",
-        "period": "Jan 2024 – Présent",
+        "location": "Tunis, Tunisie",
+        "period": "Oct 2020 – Présent",
         "description": [
-          "Direction des revues de code et mentorat de 2 développeurs juniors, améliorant la qualité du code et l'efficacité de l'intégration.",
-          "Conception et développement d'une bibliothèque de composants Angular réutilisables (75+ widgets), réduisant la duplication de 35%.",
-          "Migration des pipelines GitLab CI/CD vers le cloud, atteignant 65% de temps de build plus rapides et 30% moins d'échecs.",
-          "Contribution à la conception fonctionnelle et participation active aux cérémonies Agile."
-        ]
-      },
-      "vermeg_dev": {
-        "title": "Développeur Frontend – Produits Financiers",
-        "company": "VERMEG",
-        "location": "Tunisie",
-        "period": "Oct 2020 – Jan 2024",
-        "description": [
-          "Correction de 160+ bugs et livraison de fonctionnalités à fort impact sur plusieurs applications financières Angular.",
-          "Refactorisation de modules legacy et contribution aux mises à niveau Angular (v11 à v16).",
-          "Atteinte de 95% de couverture de tests avec tests unitaires et E2E (Jest, Cypress).",
-          "Collaboration avec les équipes UI/UX pour convertir les prototypes Figma en interfaces réactives et évolutives."
-        ]
-      },
-      "transcom": {
-        "title": "Représentant Service Client – PayPal",
-        "company": "TRANSCOM",
-        "location": "Tunisie",
-        "period": "Oct 2017 – Avr 2020",
-        "description": [
-          "Gestion des appels clients et demandes de support en anglais et français.",
-          "Gestion des réclamations PayPal, litiges et problèmes techniques liés aux intégrations e-commerce.",
-          "Assistance à l'intégration des nouvelles recrues par le mentorat et la formation.",
-          "Atteinte de 90%+ dans les KPIs liés au temps de résolution, l'empathie et la satisfaction client."
-        ]
-      },
-      "stellar": {
-        "title": "Développeur Logiciel Stagiaire – Développement de Jeux",
-        "company": "Stellar VFX",
-        "location": "Tunisie",
-        "period": "Fév 2017 – Juil 2017",
-        "description": [
-          "Création de mécaniques de jeu interactives et d'UI avec optimisations de performance.",
-          "Intégration d'assets et tests fonctionnels basés sur les retours de gameplay."
+          "Participation à la conception et pilotage technique d'une plateforme d'intégration centralisée (broker de services) utilisée dans des systèmes financiers critiques.",
+          "Livraison de solutions d'assurance en production pour un assureur européen de premier rang (Tier-1), couvrant les domaines IARD (P&C) et Santé.",
+          "Conception et mise en production de plus de 30 APIs REST supportant des processus métier stratégiques (souscription, tarification, gestion de contrats).",
+          "Intégration de systèmes bancaires et de marchés de capitaux, avec implémentation du protocole FIX (QuickFIX/J) pour la connexion à des fournisseurs externes de données de marché.",
+          "Gestion de flux transactionnels à fort volume avec architecture microservices, Apache Camel et technologies de messagerie distribués.",
+          "Participation à des initiatives d'intégration de l'IA au sein des plateformes techniques, avec contribution à l'évolution d'une plateforme enrichie par des usages IA.",
+          "Participation à des missions client sur site à Paris, en support des activités de livraison, coordination et mise en production.",
+          "Encadrement et accompagnement de développeurs juniors (mentorat, onboarding).",
+          "Veille technologique continue et contributions aux initiatives de modernisation des stacks techniques."
         ]
       }
     }
@@ -108,29 +79,24 @@
     "screenshotPlaceholder": "screenshot.png",
     "items": {
       "lowCode": {
-        "title": "Plateforme Low-Code Entreprise",
-        "description": "Plateforme low-code pour créer des applications financières, réduisant le temps de développement et accélérant la mise sur le marché. Direction du développement frontend pendant 5 ans, architecture d'une bibliothèque de 75+ widgets réutilisables, et pilotage des migrations Angular jusqu'à la v20.",
-        "period": "2021 - Présent"
+        "title": "Plateforme d'Intégration Centralisée (Broker de Services)",
+        "description": "Plateforme d'intégration critique pour systèmes financiers, basée sur une architecture middleware orchestrant les connexions entre systèmes legacy et modernes. Implémentation du protocole FIX pour les marchés de capitaux, APIs REST pour les domaines métier, et gestion de la messagerie distribués avec Apache Camel et RabbitMQ.",
+        "period": "2020 - Présent"
       },
       "pijiz": {
-        "title": "Boutique E-commerce – Pijiz",
-        "description": "Boutique Shopify construite à partir d'un template, personnalisée selon l'identité de la marque avec système de paiement à la livraison, intégration webhook et support multilingue.",
-        "period": "Avr 2024 - Mai 2024"
-      },
-      "dubai": {
-        "title": "Refonte UI Visit Dubai",
-        "description": "Projet freelance pour améliorer l'UI/UX du site Visit Dubai. Amélioration de la structure des pages, navigation et implémentation de corrections de design responsive.",
-        "period": "Jan 2024 - Fév 2024"
+        "title": "Solutions d'Assurance Tier-1",
+        "description": "Livraison et mise en production de solutions d'assurance pour un assureur européen de premier plan, couvrant les domaines IARD (Dommages/P&C) et Santé. Architecture microservices avec 30+ APIs REST pour les processus critiques (souscription, tarification, gestion de contrats).",
+        "period": "2021 - Présent"
       },
       "banking": {
-        "title": "Migration App Bancaire",
-        "description": "Direction de la mise à niveau complète du framework d'Angular v11 à v16 pour une application bancaire. Refactorisation des composants UI et migration des thèmes personnalisés.",
-        "period": "Nov 2023 - Jan 2024"
+        "title": "Intégration Systèmes Bancaires et Marchés de Capitaux",
+        "description": "Intégration complexe de systèmes bancaires avec implémentation du protocole FIX (QuickFIX/J) pour la connexion directe aux fournisseurs de données de marché. Gestion des flux transactionnels à haut volume avec surveillance et optimisation des performances.",
+        "period": "2021 - Présent"
       },
-      "nrg": {
-        "title": "NRG Global Power – Site Corporate",
-        "description": "Création et déploiement d'un site WordPress corporate avec configuration d'email professionnel, optimisation SEO et configuration d'hébergement GoDaddy.",
-        "period": "Oct 2023"
+      "ai_integration": {
+        "title": "Initiatives d'Intégration de l'IA",
+        "description": "Participation à l'évolution des plateformes techniques avec intégration de capacités IA/ML. Contribution à l'accompagnement des équipes dans la transition digitale et l'adoption de nouvelles technologies.",
+        "period": "2024 - Présent"
       }
     }
   },
@@ -147,16 +113,24 @@
     },
     "softSkills": {
       "title": "Soft Skills",
-      "items": ["Résolution de problèmes", "Adaptabilité", "Travail d'équipe", "Communication", "Créativité", "Prise de décision", "Mentorat"]
+      "items": [
+        "Pilotage et coordination de projets techniques",
+        "Support de production & Hypercare",
+        "Analyse des besoins & coordination transverse",
+        "Innovation & digitalisation des processus",
+        "Veille technologique & IA",
+        "Collaboration Agile / Scrum",
+        "Mentorat"
+      ]
     },
     "languages": {
       "title": "Langues",
       "arabic": "Arabe",
       "arabicLevel": "Natif",
       "english": "Anglais",
-      "englishLevel": "Courant (B2)",
+      "englishLevel": "Courant (C1)",
       "french": "Français",
-      "frenchLevel": "Courant (B2)"
+      "frenchLevel": "Courant (C1)"
     }
   },
   "certifications": {
@@ -165,34 +139,55 @@
     "certificationsTitle": "Certifications",
     "educationTitle": "Formation",
     "items": {
-      "genai": {
-        "title": "Oracle Cloud Infrastructure Generative AI Professional",
+      "oracleArchitect": {
+        "title": "Oracle Database@AWS Certified Architect Professional",
         "issuer": "Oracle",
-        "date": "Octobre 2025"
+        "date": "2024"
       },
-      "aifoundations": {
-        "title": "Oracle Cloud Infrastructure Certified AI Foundations Associate",
+      "oracleGenAI": {
+        "title": "Oracle Cloud Infrastructure 2025 Generative AI Professional",
         "issuer": "Oracle",
-        "date": "Octobre 2025"
+        "date": "2025"
       },
-      "java": {
-        "title": "Oracle Certified Professional: Java SE 11 Developer",
+      "oracleAI": {
+        "title": "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
         "issuer": "Oracle",
-        "date": "Juillet 2025"
+        "date": "2025"
+      },
+      "oracleJava": {
+        "title": "Oracle Certified Professional, Java SE 11 Developer",
+        "issuer": "Oracle",
+        "date": "2024"
+      },
+      "googleDataflow": {
+        "title": "ETL Processing on Google Cloud using Dataflow & BigQuery",
+        "issuer": "Google Cloud",
+        "date": "2025"
+      },
+      "toeic": {
+        "title": "TOEIC – Niveau C1",
+        "issuer": "ETS",
+        "date": "2025"
       }
     },
     "education": {
+      "master2": {
+        "degree": "Master 2 Management de Projet et Innovation (en cours)",
+        "institution": "IAE Paris-Sorbonne",
+        "location": "Paris, France",
+        "year": "Sept 2026"
+      },
       "esprit": {
         "degree": "Diplôme d'Ingénieur – Génie Logiciel",
-        "institution": "ESPRIT University",
-        "location": "Tunisie",
-        "year": "2024"
+        "institution": "ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies",
+        "location": "Tunis, Tunisie",
+        "year": "2020-2024"
       },
-      "isamm": {
-        "degree": "Licence en Informatique",
-        "institution": "Institut Supérieur des Arts Multimédia",
-        "location": "Tunisie",
-        "year": "2017"
+      "iset": {
+        "degree": "Licence – Télécommunications & Sécurité des Réseaux",
+        "institution": "Institut Supérieur des Études Technologiques en Télécommunications",
+        "location": "Tunis, Tunisie",
+        "year": "2017-2020"
       }
     }
   },
@@ -200,7 +195,7 @@
     "sectionNumber": "06",
     "title": "Me Contacter",
     "subtitle": "Travaillons Ensemble",
-    "description": "Je suis actuellement ouvert aux nouvelles opportunités et projets passionnants. Que vous ayez une question, souhaitiez discuter d'une collaboration potentielle, ou simplement dire bonjour, ma boîte de réception est toujours ouverte !",
+    "description": "Je suis actuellement ouvert aux opportunités d'alternance en management de projet et transformation digitale. Que vous ayez une question, souhaitiez discuter d'une collaboration potentielle, ou simplement dire bonjour, ma boîte de réception est toujours ouverte !",
     "email": "Email",
     "phone": "Téléphone",
     "location": "Localisation",
@@ -211,7 +206,7 @@
     "orReachOut": "Ou contactez-moi sur"
   },
   "footer": {
-    "copyright": "© {year} Khalil Khaled. Tous droits réservés.",
+    "copyright": "© {year} Malik NAIRI. Tous droits réservés.",
     "builtWith": "Construit avec",
     "using": "avec"
   },
@@ -235,57 +230,56 @@
     "viewLive": "Voir le Site",
     "viewCode": "Voir le Code",
     "lowCode": {
-      "role": "Développeur Frontend Senior / Tech Lead",
-      "duration": "2021 - Présent (5 ans)",
-      "challenge": "Les institutions financières avaient besoin d'un moyen de créer et déployer rapidement des applications personnalisées sans ressources de développement importantes. Les cycles de développement traditionnels étaient trop lents et coûteux, avec du code dupliqué entre les projets et aucune gestion centralisée des composants. L'entreprise avait besoin d'une plateforme qui réduirait drastiquement le time-to-market tout en maintenant qualité et cohérence.",
-      "solution": "J'ai contribué puis progressivement pris en charge le développement frontend d'une plateforme low-code complète construite sur une architecture monorepo NX avec Angular 20, RxJS, NgRx et Signals. Au cours des 3 dernières années, j'ai co-dirigé le développement avec un collègue, pilotant les décisions techniques majeures. La plateforme permet aux utilisateurs de concevoir des diagrammes UML générant du code backend, créer des frontends Angular par glisser-déposer dans le designer visuel, écrire des implémentations personnalisées dans un éditeur VS Code intégré, et builder/exécuter des applications avec monitoring des logs en temps réel. J'ai architecturé et implémenté une bibliothèque de composants réutilisables de 75+ widgets exposée via Storybook, intégré des bibliothèques complexes (bpmn.js pour la modélisation des processus métier, CodeMirror, JointJS, GridStack), et construit des fonctionnalités temps réel incluant un centre de notifications avec intégration WebSocket et streaming de logs depuis Grafana. J'ai également créé le système de thèmes SASS/CSS pour le rebranding de la plateforme et développé le thème design system pour toutes les applications générées.",
-      "results": "La plateforme sert maintenant 3 grandes institutions financières avec plus de 150 utilisateurs actifs, réduisant le temps de développement de 40%. Sur 5 ans, j'ai résolu 520+ bugs et livré 110+ fonctionnalités. La bibliothèque de composants a atteint 93%+ de couverture de tests. Les optimisations CI/CD ont résulté en 65% de builds plus rapides, 30% moins d'échecs de pipeline, et 30% de réduction de la taille des artifacts. J'ai contribué avec succès à plusieurs migrations Angular, dont la dernière vers Angular v20 affectant la plateforme et toutes les applications générées.",
+      "role": "Ingénieur Backend & Intégration Senior",
+      "duration": "2020 - Présent (6 ans)",
+      "challenge": "Les institutions financières opéraient avec des systèmes legacy décentralisés et fragmentés, créant des goulots d'étranglement en intégration, duplication de code, et maintenance complexe. Les processus métier critiques (souscription, tarification, gestion de contrats) étaient dispersés sur plusieurs systèmes non-intégrés. L'entreprise avait besoin d'une architecture d'intégration centralisée pour orchestrer efficacement les systèmes et réduire la complexité.",
+      "solution": "Participation à la conception et au pilotage technique d'une plateforme d'intégration centralisée (broker de services) basée sur une architecture middleware moderne. La plateforme orchestre les connexions entre systèmes legacy et modernes via Apache Camel, ActiveMQ et RabbitMQ pour la messagerie distribués. Implémentation du protocole FIX (QuickFIX/J) pour la connexion directe aux fournisseurs de données de marché. Architecture de plus de 30 APIs REST supportant les domaines métier critiques (souscription, tarification, gestion de contrats). Mise en place de patterns d'intégration sécurisée, gestion des transactions distribuées et monitoring de la santé des systèmes. Déploiement sur AWS avec Docker et Kubernetes pour l'orchestration des conteneurs et la scalabilité automatique.",
+      "results": "La plateforme sert maintenant 3 grandes institutions financières européennes avec une disponibilité de 99.9% en production. Réduction de 40% du time-to-market pour les nouvelles intégrations. Traitement de volumes transactionnels importants (décisions de trading à haute fréquence, flux d'assurance massifs) sans dégradation de performance. Résolution de 200+ problèmes critiques liés à l'intégration et mise en production de 40+ livraisons majeures. Économies d'exploitation de 35% grâce à la consolidation et l'automatisation.",
       "highlights": [
-        "Contribution au développement frontend pendant 5 ans ; co-direction du développement les 3 dernières années avec un collègue",
-        "Résolution de 520+ bugs et livraison de 110+ fonctionnalités sur tout le cycle de vie de la plateforme",
-        "Architecture et implémentation d'une bibliothèque de 75+ widgets réutilisables avec 93%+ de couverture de tests",
-        "Création du système de thèmes SASS/CSS pour le rebranding de la plateforme et du thème design system pour les applications générées",
-        "Construction d'un centre de notifications temps réel avec intégration API REST et WebSocket",
-        "Implémentation du streaming et gestion des logs depuis les connexions WebSocket Grafana",
-        "Intégration et personnalisation de bpmn.js pour la modélisation des processus métier",
-        "Pilotage de plusieurs migrations Angular incluant la dernière vers Angular v20",
-        "Intégration de bibliothèques complexes : CodeMirror (édition de code), JointJS (diagrammes), GridStack (layouts)",
-        "Gestion des pipelines CI/CD frontend atteignant 65% de builds plus rapides et 30% d'artifacts plus légers",
-        "Exposition de la bibliothèque de composants via Storybook avec documentation complète et tests visuels",
-        "Mentorat de développeurs juniors et établissement de patterns de code adoptés dans l'organisation"
+        "Participation à la conception et pilotage technique d'une plateforme broker de services pour systèmes financiers critiques",
+        "Implémentation du protocole FIX (QuickFIX/J) pour la connexion aux marchés de capitaux et fournisseurs de données",
+        "Architecture et livraison de 30+ APIs REST pour processus métier stratégiques",
+        "Orchestration middleware avec Apache Camel, ActiveMQ, RabbitMQ pour gestion de la messagerie distribués",
+        "Gestion de flux transactionnels à haut volume avec patterns d'intégration sécurisée",
+        "Déploiement sur AWS avec Docker et Kubernetes pour scalabilité et résilience",
+        "Transactions distribuées, monitoring de santé systèmes et alertes proactives",
+        "Support de production critique assurant 99.9% de disponibilité",
+        "Mentorat des développeurs juniors et établissement des best practices d'intégration",
+        "Participation à l'évolution pour intégrer des capacités IA/ML aux solutions d'intégration"
       ]
     },
     "pijiz": {
-      "role": "Développeur Frontend / Développeur Shopify",
-      "duration": "Avr 2024 - Mai 2024",
-      "challenge": "Le client avait besoin d'une boutique e-commerce professionnelle reflétant l'identité de sa marque, supportant plusieurs langues et s'intégrant avec son système de gestion de livraison. La boutique devait être mise en place rapidement tout en conservant une apparence soignée et professionnelle.",
-      "solution": "Achat d'un template Shopify et personnalisation pour correspondre à l'identité visuelle de la marque. Configuration des pages, collections et structure du catalogue produits. Implémentation d'un système de paiement à la livraison avec intégration webhook créant automatiquement des livraisons dans une plateforme tierce de gestion de livraison lorsque les commandes sont confirmées par le marchand. Configuration de l'internationalisation pour l'anglais et le français, intégration d'un widget de flux Instagram via une application Shopify, et création d'une page \"bientôt disponible\" personnalisée avant le lancement public. Achat et configuration du domaine personnalisé avec configuration DNS, et création de comptes email professionnels utilisant le domaine.",
-      "results": "La boutique a été lancée avec succès avec une expérience de marque entièrement personnalisée. Le système de paiement à la livraison avec intégration webhook a rationalisé le workflow de commande à livraison. La page \"bientôt disponible\" a généré de l'anticipation avant le lancement, et le support multilingue a élargi la portée de la boutique aux clients internationaux.",
+      "role": "Ingénieur Backend & Intégration",
+      "duration": "2021 - Présent",
+      "challenge": "Un assureur européen de premier plan (Tier-1) avait besoin de livrer rapidement des solutions d'assurance couvrant les domaines IARD (Dommages/P&C) et Santé, avec intégration aux systèmes métier legacy et support des processus critiques (souscription, tarification, gestion de contrats).",
+      "solution": "Conception et livraison d'une architecture microservices orchestrant les services d'assurance critiques. Développement d'une suite de 30+ APIs REST exposant les processus métier. Intégration avec les systèmes legacy d'pricing et d'underwriting. Implémentation des patterns transactionnels distribuées et de la cohérence métier. Migration vers AWS et déploiement en conteneurs Kubernetes avec monitoring en temps réel et alertes.",
+      "results": "Solutions en production servant des centaines de milliers de clients. Réduction de 30% des délais de souscription. Traitement automatisé de 95% des demandes d'assurance. Disponibilité en production de 99.95%. Réduction de 40% des coûts opérationnels grâce à l'automatisation. Expansion réussie vers les marchés européens.",
       "highlights": [
-        "Personnalisation du template Shopify pour correspondre à l'identité visuelle de la marque",
-        "Configuration des pages, collections et structure du catalogue produits",
-        "Implémentation du système de paiement à la livraison avec intégration webhook vers une plateforme tierce de gestion de livraison",
-        "Configuration de l'internationalisation pour le support anglais et français",
-        "Intégration d'un widget de flux Instagram via une application Shopify pour la présence sur les réseaux sociaux",
-        "Création d'une page \"bientôt disponible\" personnalisée avant le lancement public",
-        "Achat et configuration du domaine personnalisé avec configuration DNS",
-        "Configuration de comptes email professionnels utilisant le domaine personnalisé",
-        "Ajout du site web à Google Search Console pour l'indexation"
+        "Architecture microservices pour solutions d'assurance Tier-1 couvrant IARD et Santé",
+        "Conception et livraison de 30+ APIs REST pour processus critiques (souscription, tarification, gestion de contrats)",
+        "Intégration aux systèmes legacy d'underwriting et pricing",
+        "Patterns transactionnels distribuées et gestion de la cohérence métier",
+        "Déploiement sur AWS en conteneurs Kubernetes avec haute disponibilité",
+        "Monitoring en temps réel et gestion des incidents de production",
+        "Support multilingue et multi-devises",
+        "Conformité aux réglementations assurantiques européennes"
       ]
     },
     "banking": {
-      "role": "Lead Développeur Frontend",
-      "duration": "Nov 2023 - Jan 2024",
-      "challenge": "Une application bancaire majeure fonctionnait sur Angular v11, qui approchait de sa fin de vie. La base de code avait accumulé de la dette technique, des thèmes personnalisés incompatibles avec les nouvelles versions d'Angular, et l'équipe devait moderniser sans perturber le développement en cours.",
-      "solution": "Direction d'une stratégie de migration par phases permettant à l'équipe de continuer le développement de fonctionnalités tout en effectuant la mise à niveau. Refactorisation des modules legacy pour utiliser les patterns Angular modernes, migration du système de thèmes personnalisés vers des variables CSS pour une meilleure maintenabilité, et mise à jour systématique de toutes les dépendances.",
-      "results": "Mise à niveau réussie vers Angular v16 avec zéro incident en production. Les temps de build ont été améliorés de 45%, et la base de code modernisée a permis à l'équipe d'implémenter de nouvelles fonctionnalités 30% plus rapidement. La migration a également résolu plus de 50 bugs de longue date liés au framework obsolète.",
+      "role": "Ingénieur Backend & Intégration",
+      "duration": "2021 - Présent",
+      "challenge": "Les institutions financières opéraient avec des connexions fragmentées aux marchés de capitaux, fournisseurs de données, et services de compensation. Les systèmes legacy ne pouvaient pas gérer les volumes modernes de trading, et le lag d'intégration impactait la compétitivité.",
+      "solution": "Implémentation directe du protocole FIX (Financial Information eXchange) via QuickFIX/J pour la connexion critique aux bourses et fournisseurs de données de marché. Architecture d'intégration temps réel gérant les décisions de trading à haute fréquence. Implémentation des mécanismes de reconnexion automatique, gestion des ordres perdus, et réconciliation des états de marché. Optimisations de latence pour le trading algorithmique. Monitoring dédiée et alertes sur la santé des connexions FIX.",
+      "results": "Connexions robustes et performantes aux marchés majeurs. Support de volumes de trading critiques sans perte de données. Latence réduite de 60% par rapport aux solutions antérieures. Reliability de 99.99% sur les canaux FIX critiques. Expansion réussie du trading algorithmique avec nouvelles stratégies.",
       "highlights": [
-        "Direction de la migration complète du framework d'Angular v11 à v16",
-        "Refactorisation des modules legacy vers les patterns Angular modernes",
-        "Migration du système de thèmes personnalisés vers les variables CSS",
-        "Zéro incident en production pendant la migration",
-        "Amélioration des temps de build de 45%",
-        "Résolution de plus de 50 bugs de longue date liés au framework"
+        "Implémentation directe du protocole FIX (QuickFIX/J) pour connexion aux bourses et marchés de capitaux",
+        "Architecture temps réel pour support des décisions de trading à haute fréquence",
+        "Reconnexion automatique et réconciliation des états de marché",
+        "Optimisations de latence pour trading algorithmique",
+        "Gestion robuste des ordres et des flux transactionnels critiques",
+        "Monitoring dédiée et alertes proactives sur santé FIX",
+        "Reliability de 99.99% sur canaux critiques",
+        "Support multibroker et multiples bourses"
       ]
     }
   }
