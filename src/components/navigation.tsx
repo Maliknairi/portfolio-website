@@ -64,7 +64,7 @@ export function Navigation() {
               whileHover={{ scale: 1.05 }}
             >
               <span className="text-day-accent dark:text-night-cyan">{'<'}</span>
-              <span className="text-day-text dark:text-night-text">KK</span>
+              <span className="text-day-text dark:text-night-text">MN</span>
               <span className="text-day-accent dark:text-night-cyan">{'/>'}</span>
             </motion.a>
 
