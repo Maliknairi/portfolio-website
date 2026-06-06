@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Malik NAIRI | Backend & Integration Engineer",
-    "description": "Software engineer with 5+ years of experience in critical financial and insurance systems. Expert in systems integration, middleware orchestration, and digital transformation."
+    "description": "Backend & Integration Engineer with 5+ years of experience in the banking and insurance sectors. Expert in microservices architecture, distributed systems integration, Apache Camel and AWS Cloud. Transitioning toward project management and digital transformation."
   },
   "nav": {
     "about": "About",
@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "Currently seeking an apprenticeship in project management or IT project management",
+    "available": "Seeking a work-study program in Project Management & Digital Transformation (starting September 2026)",
     "greeting": "Hi, I'm",
-    "title": "Software Engineer",
+    "title": "Backend & Integration Engineer",
     "titleSeparator": "|",
-    "subtitle": "Backend & Integration Expert | Project Management",
-    "location": "Tunis, Tunisia · Relocating to Paris",
-    "description": "Information systems professional with <years>over 5 years</years> of experience designing and deploying critical solutions for the banking and insurance sectors. Currently transitioning to project management and digital transformation. I have also been admitted to the Master’s program in Project Management and Innovation at IAE Paris-Sorbonne. Seeking a work-study opportunity in project management or IT project management.",
+    "subtitle": "Banking & Insurance Expertise · Digital Transformation · Future Project Manager",
+    "location": "Tunisia · Open to Paris",
+    "description": "Information systems professional with <years>over 5 years</years> of experience in the banking and insurance sectors. I have designed, developed and deployed critical integration solutions for major European players. Transitioning toward project management and digital transformation, I will join the Master 2 in Project Management & Innovation at IAE Paris-Sorbonne in September 2026.",
     "cta": {
       "contact": "Get in Touch",
       "projects": "View Projects"
@@ -29,20 +29,20 @@
     "sectionNumber": "01",
     "title": "About Me",
     "intro": "I'm an information systems professional specializing in",
-    "highlight1": "designing and delivering critical solutions",
-    "intro2": "for financial and insurance sectors. With deep expertise in systems integration, middleware orchestration, and microservices architecture, I've contributed to strategic projects for leading European organizations.",
+    "highlight1": "designing and integrating critical solutions",
+    "intro2": "for the banking and insurance sectors. My expertise spans Java backend development, microservices architecture, distributed systems integration (Apache Camel, Enterprise Integration Patterns), API management, middleware and AWS Cloud.",
     "current1": "At",
     "company": "VERMEG",
-    "current2": "since October 2020, I've participated in designing a",
-    "highlight2": "centralized integration platform (services broker) used in critical financial systems",
-    "current3": "and delivered 30+ REST APIs supporting strategic business processes. Currently transitioning to project management and innovation, I'll join the Master 2 Project Management and Innovation program at IAE Paris-Sorbonne in September 2026.",
-    "personal": "I'm distinguished by my ability to understand business challenges, coordinate stakeholders in international environments, and deliver robust, maintainable solutions. Autonomous and adaptable, I master complex production challenges and am motivated by continuously bringing value to organizations.",
+    "current2": " since October 2020, I have contributed to the design and technical leadership of a",
+    "highlight2": "centralized integration platform used in critical financial systems",
+    "current3": "and deployed 30+ REST APIs for major European players, including several on-site client missions in Paris. Currently transitioning toward project management and digital transformation, I will join the Master 2 in Project Management & Innovation at IAE Paris-Sorbonne in September 2026.",
+    "personal": "Beyond development, I have grown into technical leadership, cross-functional coordination and innovation. I'm distinguished by my ability to understand business challenges, coordinate stakeholders in international environments, and deliver robust, maintainable, high-impact solutions.",
     "techTitle": "Technologies I work with daily:",
     "stats": {
-      "years": "Years Experience",
-      "users": "Platform Users",
+      "years": "Years of Experience",
+      "users": "REST APIs in Production",
       "certifications": "Certifications",
-      "languages": "Languages Spoken"
+      "languages": "Languages"
     },
     "imagePlaceholder": "profile-image.jpg"
   },
@@ -53,18 +53,17 @@
       "vermeg_backend": {
         "title": "Backend & Integration Engineer",
         "company": "VERMEG",
-        "location": "Tunis, Tunisia",
+        "location": "Tunisia",
         "period": "Oct 2020 – Present",
         "description": [
-          "Participated in design and technical leadership of a centralized integration platform (services broker) used in critical financial systems.",
-          "Delivered insurance solutions in production for a leading European Tier-1 insurance company, covering IARD (P&C) and Health domains.",
-          "Designed and deployed 30+ REST APIs supporting strategic business processes (underwriting, pricing, contract management).",
-          "Integrated banking and capital markets systems with FIX protocol implementation (QuickFIX/J) for external market data provider connections.",
-          "Managed high-volume transactional flows with microservices architecture, Apache Camel, and distributed messaging technologies.",
-          "Participated in AI integration initiatives within technical platforms, contributing to platform evolution enriched by AI usage.",
-          "Participated in on-site client missions in Paris supporting delivery, coordination, and production deployment activities.",
-          "Mentored and onboarded junior developers (mentoring, onboarding).",
-          "Continuous technology tracking and contributions to technical stack modernization initiatives."
+          "Contributed to the design and technical leadership of a centralized integration platform used in critical financial systems.",
+          "Delivered insurance solutions to production for a leading European insurer.",
+          "Designed and deployed 30+ REST APIs.",
+          "Developed distributed integration solutions.",
+          "Contributed to AI and digital transformation initiatives.",
+          "Production support and hypercare.",
+          "On-site client missions in Paris.",
+          "Mentored and onboarded junior developers."
         ]
       }
     }
@@ -76,27 +75,52 @@
     "viewLive": "Live",
     "viewCode": "Code",
     "viewDetails": "View Details",
-    "screenshotPlaceholder": "screenshot.png",
+    "screenshotPlaceholder": "Enterprise project",
     "items": {
-      "lowCode": {
-        "title": "Centralized Integration Platform (Services Broker)",
-        "description": "Critical integration platform for financial systems, based on middleware architecture orchestrating connections between legacy and modern systems. FIX protocol implementation for capital markets, REST APIs for business domains, and distributed messaging management with Apache Camel and RabbitMQ.",
-        "period": "2020 - Present"
+      "assuranceIntegration": {
+        "title": "Insurance Integration Platform",
+        "description": "Design and integration of a distributed architecture supporting insurance underwriting journeys (P&C, Machinery Breakdown, Health, Garage, Boost). 30+ REST APIs, integration of multiple backend systems and a service-oriented architecture, deployed in a critical environment.",
+        "period": "Enterprise · Insurance"
       },
-      "pijiz": {
-        "title": "Tier-1 Insurance Solutions",
-        "description": "Delivery and production deployment of insurance solutions for a leading European Tier-1 insurance company, covering IARD (Damage/P&C) and Health domains. Microservices architecture with 30+ REST APIs for critical processes (underwriting, pricing, contract management).",
-        "period": "2021 - Present"
+      "servicesBroker": {
+        "title": "Financial Services Broker",
+        "description": "Contributed to the design of a centralized integration platform acting as a broker between multiple financial systems. Orchestration of critical business flows, exposure of integration services and support for high-volume systems.",
+        "period": "Enterprise · Banking"
       },
-      "banking": {
-        "title": "Banking and Capital Markets Systems Integration",
-        "description": "Complex banking systems integration with FIX protocol implementation (QuickFIX/J) for direct connection to market data providers. High-volume transactional flow management with monitoring and performance optimization.",
-        "period": "2021 - Present"
+      "custodianMarketData": {
+        "title": "Custodian & Market Data",
+        "description": "Integration of asset custody systems and market data. Bloomberg connectivity, QuickFIX/J implementation, integration of external data providers and processing of transactional flows.",
+        "period": "Enterprise · Markets"
       },
-      "ai_integration": {
-        "title": "AI Integration Initiatives",
-        "description": "Participation in technical platform evolution with AI/ML capabilities integration. Contribution to team support in digital transition and adoption of new technologies.",
-        "period": "2024 - Present"
+      "dataLake": {
+        "title": "Data Lake Integration",
+        "description": "Built integrations feeding a Data Lake. JMS flow management, real-time integration, data processing and distribution at scale.",
+        "period": "Enterprise · Data"
+      },
+      "isabelConnector": {
+        "title": "Isabel Banking Connector",
+        "description": "Development and integration of an Isabel banking connector: daily transaction retrieval, processing automation, reliability and monitoring.",
+        "period": "Enterprise · Banking"
+      },
+      "pentahoEtl": {
+        "title": "Pentaho Banking ETL PoC",
+        "description": "ETL proof of concept for a banking team, processing 100,000+ records per day. Data mapping and transformation, presented to banking product teams and successfully deployed.",
+        "period": "PoC · Banking"
+      },
+      "formulaStudent": {
+        "title": "Formula Student Analytics",
+        "description": "Academic data analytics project for the Formula Student competition: race performance visualization, decision-support dashboards and telemetry data analysis.",
+        "period": "Academic"
+      },
+      "formula1": {
+        "title": "Formula 1 Analytics Dashboard",
+        "description": "Personal Formula 1 data analysis project: driver analysis, circuit analysis and season performance analysis through interactive dashboards.",
+        "period": "Personal"
+      },
+      "aiPlatform": {
+        "title": "AI-Powered Integration Platform",
+        "description": "Evolution of an integration platform embedding generative AI usage: intelligent assistance, automation and improved operational efficiency to modernize integration platforms.",
+        "period": "In progress"
       }
     }
   },
@@ -104,23 +128,24 @@
     "sectionNumber": "04",
     "title": "Skills",
     "categories": {
-      "frontend": "Frontend",
-      "backend": "Backend & APIs",
-      "testing": "Testing",
-      "devops": "DevOps & CI/CD",
-      "design": "Design & UX",
-      "security": "Security"
+      "backend": "Backend",
+      "integration": "Integration",
+      "cloud": "Cloud & DevOps",
+      "data": "Data & Analytics",
+      "domain": "Banking & Insurance"
     },
     "softSkills": {
       "title": "Soft Skills",
       "items": [
-        "Technical project management and coordination",
-        "Production support & Hypercare",
-        "Requirement analysis & cross-functional coordination",
-        "Process innovation & digitalization",
-        "Technology tracking & AI",
-        "Agile / Scrum collaboration",
-        "Mentoring"
+        "Technical leadership",
+        "Cross-functional coordination",
+        "Client communication",
+        "Mentoring",
+        "Business analysis",
+        "Stakeholder management",
+        "Complex problem solving",
+        "Innovation",
+        "Digital transformation"
       ]
     },
     "languages": {
@@ -128,9 +153,9 @@
       "arabic": "Arabic",
       "arabicLevel": "Native",
       "english": "English",
-      "englishLevel": "Fluent (C1)",
+      "englishLevel": "C1",
       "french": "French",
-      "frenchLevel": "Fluent (C1)"
+      "frenchLevel": "C1"
     }
   },
   "certifications": {
@@ -138,26 +163,27 @@
     "title": "Certifications & Education",
     "certificationsTitle": "Certifications",
     "educationTitle": "Education",
+    "involvementTitle": "Involvement & Activities",
     "items": {
+      "oracleJava": {
+        "title": "Oracle Certified Professional, Java SE 11 Developer",
+        "issuer": "Oracle",
+        "date": "2024"
+      },
       "oracleArchitect": {
         "title": "Oracle Database@AWS Certified Architect Professional",
         "issuer": "Oracle",
         "date": "2024"
       },
       "oracleGenAI": {
-        "title": "Oracle Cloud Infrastructure 2025 Generative AI Professional",
+        "title": "Oracle Cloud Infrastructure Generative AI Professional",
         "issuer": "Oracle",
         "date": "2025"
       },
       "oracleAI": {
-        "title": "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
+        "title": "Oracle Cloud Infrastructure AI Foundations Associate",
         "issuer": "Oracle",
         "date": "2025"
-      },
-      "oracleJava": {
-        "title": "Oracle Certified Professional, Java SE 11 Developer",
-        "issuer": "Oracle",
-        "date": "2024"
       },
       "googleDataflow": {
         "title": "ETL Processing on Google Cloud using Dataflow & BigQuery",
@@ -172,22 +198,34 @@
     },
     "education": {
       "master2": {
-        "degree": "Master 2 Project Management and Innovation (In Progress)",
+        "degree": "Master 2 in Project Management & Innovation",
         "institution": "IAE Paris-Sorbonne",
         "location": "Paris, France",
         "year": "Sept 2026"
       },
       "esprit": {
-        "degree": "Engineering Degree – Software Engineering",
-        "institution": "ESPRIT – Higher School of Engineering and Technology",
+        "degree": "Software Engineering Degree",
+        "institution": "ESPRIT",
         "location": "Tunis, Tunisia",
-        "year": "2020-2024"
+        "year": "2020 - 2024"
       },
       "iset": {
-        "degree": "Bachelor's Degree – Telecommunications & Network Security",
-        "institution": "Higher Institute of Technology Studies in Telecommunications",
+        "degree": "Bachelor's – Networks & Telecommunications",
+        "institution": "ISET'Com",
         "location": "Tunis, Tunisia",
-        "year": "2017-2020"
+        "year": "2017 - 2020"
+      }
+    },
+    "involvement": {
+      "tedx": {
+        "role": "Organizing committee member",
+        "organization": "TEDx ISET'Com",
+        "date": "March 2019"
+      },
+      "election": {
+        "role": "Polling station officer",
+        "organization": "Municipal elections – Tunisia",
+        "date": "May 2018"
       }
     }
   },
@@ -195,7 +233,7 @@
     "sectionNumber": "06",
     "title": "Get in Touch",
     "subtitle": "Let's Work Together",
-    "description": "I'm currently open to internship opportunities in project management and digital transformation. Whether you have a question, want to discuss a potential collaboration, or just want to say hi, my inbox is always open!",
+    "description": "I'm currently seeking a work-study program in project management and digital transformation. Whether you'd like to discuss a collaboration, a project, or simply connect, my inbox is always open!",
     "email": "Email",
     "phone": "Phone",
     "location": "Location",
@@ -217,70 +255,5 @@
   "language": {
     "switchTo": "Français",
     "current": "EN"
-  },
-  "projectDetails": {
-    "backToProjects": "Back to Projects",
-    "challenge": "The Challenge",
-    "solution": "The Solution",
-    "highlights": "Key Highlights",
-    "results": "Results & Impact",
-    "role": "My Role",
-    "duration": "Duration",
-    "techStack": "Tech Stack",
-    "viewLive": "View Live Site",
-    "viewCode": "View Source Code",
-    "lowCode": {
-      "role": "Senior Backend & Integration Engineer",
-      "duration": "2020 - Present (6 years)",
-      "challenge": "Financial institutions operated with decentralized, fragmented legacy systems, creating integration bottlenecks, code duplication, and complex maintenance. Critical business processes (underwriting, pricing, contract management) were scattered across multiple non-integrated systems. The enterprise needed a centralized integration architecture to efficiently orchestrate systems and reduce complexity.",
-      "solution": "Participated in designing and technical leadership of a centralized integration platform (services broker) based on modern middleware architecture. The platform orchestrates connections between legacy and modern systems via Apache Camel, ActiveMQ, and RabbitMQ for distributed messaging. FIX protocol implementation (QuickFIX/J) for direct connection to market data providers. Architecture of 30+ REST APIs supporting critical business domains (underwriting, pricing, contract management). Establishment of secure integration patterns, distributed transaction management, and systems health monitoring. Deployment on AWS with Docker and Kubernetes for container orchestration and automatic scalability.",
-      "results": "The platform now serves 3 major European financial institutions with 99.9% production availability. 40% reduction in time-to-market for new integrations. Processing of high transaction volumes (high-frequency trading decisions, massive insurance flows) without performance degradation. Resolution of 200+ critical integration issues and deployment of 40+ major releases. 35% operational savings through consolidation and automation.",
-      "highlights": [
-        "Participated in design and technical leadership of a services broker platform for critical financial systems",
-        "Implemented FIX protocol (QuickFIX/J) for connection to capital markets and market data providers",
-        "Architected and delivered 30+ REST APIs for strategic business processes",
-        "Middleware orchestration with Apache Camel, ActiveMQ, RabbitMQ for distributed messaging management",
-        "High-volume transactional flow management with secure integration patterns",
-        "AWS deployment with Docker and Kubernetes for scalability and resilience",
-        "Distributed transactions, systems health monitoring, and proactive alerting",
-        "Critical production support ensuring 99.9% availability",
-        "Mentoring junior developers and establishing integration best practices",
-        "Participation in platform evolution to integrate AI/ML capabilities"
-      ]
-    },
-    "pijiz": {
-      "role": "Backend & Integration Engineer",
-      "duration": "2021 - Present",
-      "challenge": "A leading European Tier-1 insurance company needed to rapidly deliver insurance solutions covering IARD (Damage/P&C) and Health domains, with integration to legacy business systems and support for critical processes (underwriting, pricing, contract management).",
-      "solution": "Designed and delivered a microservices architecture orchestrating critical insurance services. Development of a suite of 30+ REST APIs exposing business processes. Integration with legacy pricing and underwriting systems. Implementation of distributed transaction patterns and business consistency. Migration to AWS and deployment in Kubernetes containers with real-time monitoring and alerting.",
-      "results": "Solutions in production serving hundreds of thousands of customers. 30% reduction in underwriting timelines. Automated processing of 95% of insurance requests. 99.95% production availability. 40% reduction in operational costs through automation. Successful expansion to European markets.",
-      "highlights": [
-        "Microservices architecture for Tier-1 insurance solutions covering IARD and Health",
-        "Design and delivery of 30+ REST APIs for critical processes (underwriting, pricing, contract management)",
-        "Integration with legacy underwriting and pricing systems",
-        "Distributed transaction patterns and business consistency management",
-        "AWS deployment in Kubernetes containers with high availability",
-        "Real-time monitoring and production incident management",
-        "Multi-language and multi-currency support",
-        "Compliance with European insurance regulations"
-      ]
-    },
-    "banking": {
-      "role": "Backend & Integration Engineer",
-      "duration": "2021 - Present",
-      "challenge": "Financial institutions operated with fragmented connections to capital markets, data providers, and clearing services. Legacy systems couldn't handle modern trading volumes, and integration lag impacted competitiveness.",
-      "solution": "Direct implementation of FIX (Financial Information eXchange) protocol via QuickFIX/J for critical connection to exchanges and market data providers. Real-time integration architecture managing high-frequency trading decisions. Implementation of automatic reconnection mechanisms, lost order handling, and market state reconciliation. Latency optimizations for algorithmic trading. Dedicated monitoring and FIX connection health channel alerts.",
-      "results": "Robust and high-performance connections to major markets. Support of critical trading volumes without data loss. 60% latency reduction compared to previous solutions. 99.99% reliability on critical FIX channels. Successful expansion of algorithmic trading with new strategies.",
-      "highlights": [
-        "Direct FIX protocol implementation (QuickFIX/J) for connection to exchanges and capital markets",
-        "Real-time architecture for high-frequency trading decision support",
-        "Automatic reconnection and market state reconciliation",
-        "Latency optimizations for algorithmic trading",
-        "Robust order and critical transactional flow management",
-        "Dedicated monitoring and proactive FIX health alerts",
-        "99.99% reliability on critical channels",
-        "Multi-broker and multiple exchange support"
-      ]
-    }
   }
 }

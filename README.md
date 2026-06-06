@@ -1,21 +1,23 @@
-# Khalil Khaled - Portfolio
+# Malik NAIRI — Portfolio
 
-A modern, interactive portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
+Portfolio personnel de **Malik NAIRI**, Ingénieur Backend & Intégration (Banque & Assurance, Transformation Digitale). Site bilingue (FR par défaut / EN), construit avec Next.js, Tailwind CSS et Framer Motion.
+
+/ Personal portfolio of **Malik NAIRI**, Backend & Integration Engineer (Banking & Insurance, Digital Transformation). Bilingual site (French default / English), built with Next.js, Tailwind CSS and Framer Motion.
 
 ## Features
 
-- 🌙 Dark/Light theme toggle (Night Owl inspired dark theme)
-- ✨ Smooth animations and micro-interactions
-- 📱 Fully responsive design
-- ⚡ Optimized performance
-- ♿ Accessible (WCAG AA compliant)
-- 🎨 Modern bento grid layout
+- 🌍 Bilingue FR/EN (next-intl) — le français est la langue par défaut
+- 🌙 Thème clair/sombre
+- ✨ Animations fluides (Framer Motion)
+- 📱 Design responsive
+- ⚡ Performances optimisées
 
 ## Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
+- **i18n:** next-intl
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
 - **Fonts:** Geist Sans & Geist Mono
@@ -25,18 +27,12 @@ A modern, interactive portfolio website built with Next.js, Tailwind CSS, and Fr
 
 ### Prerequisites
 
-- Node.js 18+ 
-- npm or yarn
+- Node.js 18+
+- npm
 
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/Khalil-Khaled/portfolio.git
-
-# Navigate to the project
-cd portfolio
-
 # Install dependencies
 npm install
 
@@ -44,78 +40,41 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3000](http://localhost:3000) — the site opens in French by default; use the language switcher for English.
 
-## Customization
+## Content & Customization
 
-### Adding Your Photo
+Content is stored in localization files (keep both in sync):
 
-Replace the placeholder in `src/components/about.tsx` with your image:
+- `src/i18n/locales/fr.json` — French (source of truth)
+- `src/i18n/locales/en.json` — English
 
-```tsx
-<Image 
-  src="/your-photo.jpg" 
-  alt="Khalil Khaled"
-  fill
-  className="object-cover"
-/>
-```
+Some sections also hold hardcoded data in their components — when you change a key/count in the JSON, update the matching array in the component:
 
-### Adding Project Screenshots
+- `src/components/skills.tsx` — skill categories + soft-skills index loop
+- `src/components/experience.tsx` — `descriptionCounts`
+- `src/components/projects.tsx` — `projectsData` (keys, technologies, images)
+- `src/components/certifications.tsx` — certifications, education, involvement
+- `src/components/about.tsx` — stat values + daily-tech tags
 
-1. Add your screenshots to the `public/projects/` folder
-2. Update the `image` property in `src/components/projects.tsx`
+### Project screenshots
 
-### Adding Your CV
+1. Add images to `public/images/projects/<project>/`
+2. Set the `image` property on the matching entry in `src/components/projects.tsx`
 
-1. Add your CV PDFs to the `public/` folder:
-   - `cv-en.pdf` for English version
-   - `cv-fr.pdf` for French version
-2. The download button will automatically serve the correct CV based on the selected language
+### CV
+
+The CV PDF lives in `public/images/` and is served by the CV button.
 
 ## Deployment
 
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Deploy!
-
-The site will be automatically deployed on every push to the main branch.
-
-## Project Structure
-
-```
-src/
-├── app/
-│   ├── globals.css      # Global styles & Tailwind
-│   ├── layout.tsx       # Root layout with providers
-│   └── page.tsx         # Home page
-├── components/
-│   ├── about.tsx        # About section
-│   ├── certifications.tsx
-│   ├── contact.tsx
-│   ├── experience.tsx
-│   ├── footer.tsx
-│   ├── hero.tsx
-│   ├── navigation.tsx
-│   ├── projects.tsx
-│   ├── skills.tsx
-│   ├── theme-provider.tsx
-│   └── theme-toggle.tsx
-public/
-├── CV-Khalil-Khaled-EN.pdf           # Your CV - English version (add this)
-├── CV-Khalil-Khaled-FR.pdf           # Your CV - French version (add this)
-└── images/projects/         # Project screenshots (create this)
-```
-
-## License
-
-MIT License - feel free to use this template for your own portfolio!
+Deployed on Vercel — pushed builds deploy automatically.
 
 ## Contact
 
-- **Email:** khalilkhaled1995@gmail.com
-- **LinkedIn:** [linkedin.com/in/khalil-khaled](https://linkedin.com/in/khalil-khaled)
-- **GitHub:** [github.com/Khalil-Khaled](https://github.com/Khalil-Khaled)
+- **Email:** nairimalek10@gmail.com
+- **LinkedIn:** [linkedin.com/in/malik-nairi-388129172](https://linkedin.com/in/malik-nairi-388129172)
+
+## License
+
+MIT License.

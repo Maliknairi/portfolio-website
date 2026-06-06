@@ -13,8 +13,8 @@ export function About() {
 
   const stats = [
     { icon: Code2, value: "5+", label: t("stats.years") },
-    { icon: Users, value: "150+", label: t("stats.users") },
-    { icon: Award, value: "3", label: t("stats.certifications") },
+    { icon: Users, value: "30+", label: t("stats.users") },
+    { icon: Award, value: "6", label: t("stats.certifications") },
     { icon: Globe, value: "3", label: t("stats.languages") },
   ];
 
@@ -66,13 +66,13 @@ export function About() {
                 </p>
                 <div className="flex flex-wrap gap-2">
                   {[
-                    "Angular",
-                    "TypeScript",
-                    "RxJS",
-                    "NgRx",
-                    "Tailwind",
-                    "Jest",
-                    "Cypress",
+                    "Java 11",
+                    "Spring Boot",
+                    "Apache Camel",
+                    "Microservices",
+                    "AWS",
+                    "Docker",
+                    "Kubernetes",
                   ].map((tech) => (
                     <span
                       key={tech}

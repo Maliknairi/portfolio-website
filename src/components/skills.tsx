@@ -4,18 +4,17 @@ import { useTranslations } from 'next-intl';
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 import {
-  Code2,
   Server,
-  TestTube,
-  GitBranch,
-  Palette,
-  Shield,
+  Workflow,
+  Cloud,
+  BarChart3,
+  Landmark,
   Languages,
   Brain,
 } from 'lucide-react';
 
 interface SkillCategory {
-  icon: typeof Code2;
+  icon: typeof Server;
   key: string;
   skills: string[];
   color: string;
@@ -23,55 +22,55 @@ interface SkillCategory {
 
 const skillCategories: SkillCategory[] = [
   {
-    icon: Code2,
-    key: 'frontend',
-    skills: [
-      'Angular',
-      'TypeScript',
-      'JavaScript (ES6+)',
-      'RxJS',
-      'NgRx',
-      'React',
-      'Next.js',
-      'HTML5',
-      'CSS3',
-      'SASS',
-      'Tailwind',
-      'Bootstrap',
-      'PrimeNG',
-      'Angular Material',
-    ],
+    icon: Server,
+    key: 'backend',
+    skills: ['Java 11', 'Spring Boot', 'REST APIs', 'Hibernate', 'Microservices', 'Maven'],
     color: 'cyan',
   },
   {
-    icon: Server,
-    key: 'backend',
-    skills: ['Java', 'Spring Boot', 'NestJS', 'ExpressJS', 'SQL', 'REST APIs', 'RabbitMQ'],
+    icon: Workflow,
+    key: 'integration',
+    skills: [
+      'Apache Camel',
+      'Enterprise Service Bus',
+      'Enterprise Integration Patterns',
+      'JMS',
+      'ActiveMQ',
+      'RabbitMQ',
+      'AWS SQS',
+      'AWS MQ',
+      'QuickFIX/J',
+    ],
     color: 'accent',
   },
   {
-    icon: TestTube,
-    key: 'testing',
-    skills: ['Jest', 'Cypress', 'Storybook', 'ESLint', 'JUnit', 'Postman'],
+    icon: Cloud,
+    key: 'cloud',
+    skills: ['AWS', 'Docker', 'Kubernetes', 'Jenkins', 'CI/CD', 'Git', 'Linux'],
     color: 'green',
   },
   {
-    icon: GitBranch,
-    key: 'devops',
-    skills: ['Git', 'GitLab CI/CD', 'Docker', 'Nexus', 'Vercel', 'GoDaddy', 'OVH'],
+    icon: BarChart3,
+    key: 'data',
+    skills: ['Power BI', 'Pentaho', 'ETL', 'BigQuery', 'Dataflow', 'SQL', 'PostgreSQL', 'MySQL'],
     color: 'orange',
   },
   {
-    icon: Palette,
-    key: 'design',
-    skills: ['Figma', 'Adobe Photoshop', 'Sketch'],
+    icon: Landmark,
+    key: 'domain',
+    skills: [
+      'Assurance IARD',
+      'Assurance Santé',
+      'Souscription',
+      'Tarification',
+      'Gestion des contrats',
+      'Collateral Management',
+      'Custody',
+      'Market Data Integration',
+      'Financial Messaging',
+      'FIX Protocol',
+    ],
     color: 'pink',
-  },
-  {
-    icon: Shield,
-    key: 'security',
-    skills: ['Keycloak', 'JWT'],
-    color: 'yellow',
   },
 ];
 
@@ -180,7 +179,7 @@ export function Skills() {
                 </h3>
               </div>
               <div className="flex flex-wrap gap-2">
-                {[0, 1, 2, 3, 4, 5, 6].map((i) => {
+                {[0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => {
                   try {
                     const skill = t(`softSkills.items.${i}`);
                     if (skill && !skill.includes('items')) {

@@ -12,18 +12,8 @@ interface ExperienceData {
 
 const experienceData: ExperienceData[] = [
   {
-    key: 'vermeg_lead',
-    technologies: ['Angular', 'TypeScript', 'RxJS', 'NgRx', 'GitLab CI/CD', 'Docker'],
-  },
-  {
-    key: 'vermeg_dev',
-    technologies: ['Angular', 'Jest', 'Cypress', 'Figma', 'SASS', 'REST APIs'],
-  },
-  {
-    key: 'transcom',
-  },
-  {
-    key: 'stellar',
+    key: 'vermeg_backend',
+    technologies: ['Java 11', 'Spring Boot', 'Apache Camel', 'QuickFIX/J', 'Microservices', 'AWS'],
   },
 ];
 
@@ -45,10 +35,7 @@ function ExperienceCard({
 
   // Get description array from translations based on job
   const descriptionCounts: Record<string, number> = {
-    vermeg_lead: 4,
-    vermeg_dev: 4,
-    transcom: 4,
-    stellar: 2,
+    vermeg_backend: 8,
   };
   
   const count = descriptionCounts[expKey] || 0;

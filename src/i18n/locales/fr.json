@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Malik NAIRI | Ingénieur Backend & Intégration",
-    "description": "Ingénieur logiciel avec plus de 5 ans d'expérience en systèmes critiques bancaire et assurantiel. Expert en intégration, orchestration de systèmes et transformation digitale."
+    "description": "Ingénieur Backend & Intégration avec plus de 5 ans d'expérience dans les secteurs bancaire et assurantiel. Expertise en architecture microservices, intégration de systèmes distribués, Apache Camel et Cloud AWS. En transition vers le management de projet et la transformation digitale."
   },
   "nav": {
     "about": "À propos",
@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "À la recherche d’une alternance en management de projet ou en gestion de projets IT",
+    "available": "Recherche d'une alternance en Management de Projet & Transformation Digitale (rentrée septembre 2026)",
     "greeting": "Bonjour, je suis",
-    "title": "Ingénieur Logiciel",
+    "title": "Ingénieur Backend & Intégration",
     "titleSeparator": "|",
-    "subtitle": "Expert Backend & Intégration | Management de Projet",
-    "location": "Tunis, Tunisie · Relocalisation vers Paris",
-    "description": "Professionnel des systèmes d’information avec plus de <years>5+ ans</years> d’expérience dans la conception et le déploiement de solutions critiques dans les secteurs bancaire et assurantiel. En transition vers le management de projet et la transformation digitale. Je suis également admis en Master 2 Management de Projet et Innovation à l’IAE Paris-Sorbonne. À la recherche d’une alternance en management de projet ou en gestion de projets IT.",
+    "subtitle": "Expertise Banque & Assurance · Transformation Digitale · Futur Chef de Projet",
+    "location": "Tunisie · Mobilité Paris",
+    "description": "Professionnel des systèmes d'information avec <years>plus de 5 ans</years> d'expérience dans les secteurs bancaire et assurantiel. J'ai conçu, développé et mis en production des solutions critiques d'intégration pour des acteurs européens majeurs. En transition vers le management de projet et la transformation digitale, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",
     "cta": {
       "contact": "Me Contacter",
       "projects": "Voir les Projets"
@@ -29,20 +29,20 @@
     "sectionNumber": "01",
     "title": "À Propos de Moi",
     "intro": "Je suis un professionnel des systèmes d'information spécialisé dans",
-    "highlight1": "la conception et la livraison de solutions critiques",
-    "intro2": "pour les secteurs bancaire et assurantiel. Avec une expertise approfondie en intégration de systèmes, orchestration middleware et architecture microservices, j'ai contribué à des projets stratégiques pour des acteurs européens de premier plan.",
+    "highlight1": "la conception et l'intégration de solutions critiques",
+    "intro2": "pour les secteurs bancaire et assurantiel. Mon expertise couvre le développement backend Java, l'architecture microservices, l'intégration de systèmes distribués (Apache Camel, Enterprise Integration Patterns), l'API Management, le middleware et le Cloud AWS.",
     "current1": "Chez",
-    "company": "VERMEG ",
-    "current2": "depuis octobre 2020, j'ai participé à la conception d'une",
-    "highlight2": "plateforme d'intégration centralisée (broker de services) utilisée dans des systèmes financiers critiques",
-    "current3": "et livré plus de 30 APIs REST supportant des processus métier stratégiques. Actuellement en transition vers le management de projet et l'innovation, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",
-    "personal": "Je me distingue par ma capacité à comprendre les enjeux métier, coordonner les parties prenantes dans des environnements internationaux, et livrer des solutions robustes et maintenables. Autonome et adaptable, je maîtrise les défis de production complexes et suis motivé par l'apport continu de valeur aux organisations.",
-    "techTitle": "Technologies que j'utilise quotidiennement :",
+    "company": "VERMEG",
+    "current2": " depuis octobre 2020, j'ai participé à la conception et au pilotage technique d'une",
+    "highlight2": "plateforme d'intégration centralisée utilisée dans des systèmes financiers critiques",
+    "current3": "et mis en production plus de 30 APIs REST pour des acteurs européens majeurs, avec plusieurs missions client à Paris. Actuellement en transition vers le management de projet et la transformation digitale, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",
+    "personal": "Au-delà du développement, j'ai évolué vers le leadership technique, la coordination transverse et l'innovation. Je me distingue par ma capacité à comprendre les enjeux métier, à coordonner les parties prenantes dans des environnements internationaux et à livrer des solutions robustes, maintenables et à fort impact.",
+    "techTitle": "Technologies que j'utilise au quotidien :",
     "stats": {
       "years": "Ans d'Expérience",
-      "users": "Utilisateurs Plateforme",
+      "users": "APIs REST en Production",
       "certifications": "Certifications",
-      "languages": "Langues Parlées"
+      "languages": "Langues"
     },
     "imagePlaceholder": "profile-image.jpg"
   },
@@ -53,18 +53,17 @@
       "vermeg_backend": {
         "title": "Ingénieur Backend & Intégration",
         "company": "VERMEG",
-        "location": "Tunis, Tunisie",
-        "period": "Oct 2020 – Présent",
+        "location": "Tunisie",
+        "period": "Oct 2020 – Aujourd'hui",
         "description": [
-          "Participation à la conception et pilotage technique d'une plateforme d'intégration centralisée (broker de services) utilisée dans des systèmes financiers critiques.",
-          "Livraison de solutions d'assurance en production pour un assureur européen de premier rang (Tier-1), couvrant les domaines IARD (P&C) et Santé.",
-          "Conception et mise en production de plus de 30 APIs REST supportant des processus métier stratégiques (souscription, tarification, gestion de contrats).",
-          "Intégration de systèmes bancaires et de marchés de capitaux, avec implémentation du protocole FIX (QuickFIX/J) pour la connexion à des fournisseurs externes de données de marché.",
-          "Gestion de flux transactionnels à fort volume avec architecture microservices, Apache Camel et technologies de messagerie distribués.",
-          "Participation à des initiatives d'intégration de l'IA au sein des plateformes techniques, avec contribution à l'évolution d'une plateforme enrichie par des usages IA.",
-          "Participation à des missions client sur site à Paris, en support des activités de livraison, coordination et mise en production.",
-          "Encadrement et accompagnement de développeurs juniors (mentorat, onboarding).",
-          "Veille technologique continue et contributions aux initiatives de modernisation des stacks techniques."
+          "Participation à la conception et au pilotage technique d'une plateforme d'intégration centralisée utilisée dans des systèmes financiers critiques.",
+          "Mise en production de solutions d'assurance pour un assureur européen de premier plan.",
+          "Conception et mise en production de plus de 30 APIs REST.",
+          "Développement de solutions d'intégration distribuées.",
+          "Participation aux initiatives IA et de transformation digitale.",
+          "Support de production et hypercare.",
+          "Missions client sur site à Paris.",
+          "Mentorat et accompagnement de développeurs juniors."
         ]
       }
     }
@@ -76,27 +75,52 @@
     "viewLive": "Voir",
     "viewCode": "Code",
     "viewDetails": "Voir Détails",
-    "screenshotPlaceholder": "screenshot.png",
+    "screenshotPlaceholder": "Projet entreprise",
     "items": {
-      "lowCode": {
-        "title": "Plateforme d'Intégration Centralisée (Broker de Services)",
-        "description": "Plateforme d'intégration critique pour systèmes financiers, basée sur une architecture middleware orchestrant les connexions entre systèmes legacy et modernes. Implémentation du protocole FIX pour les marchés de capitaux, APIs REST pour les domaines métier, et gestion de la messagerie distribués avec Apache Camel et RabbitMQ.",
-        "period": "2020 - Présent"
+      "assuranceIntegration": {
+        "title": "Plateforme d'Intégration Assurance",
+        "description": "Conception et intégration d'une architecture distribuée supportant les parcours de souscription d'assurance (IARD, Bris de Machine, Santé, Garage, Boost). Plus de 30 APIs REST, intégration de plusieurs systèmes backend et architecture orientée services, déployées en environnement critique.",
+        "period": "Entreprise · Assurance"
       },
-      "pijiz": {
-        "title": "Solutions d'Assurance Tier-1",
-        "description": "Livraison et mise en production de solutions d'assurance pour un assureur européen de premier plan, couvrant les domaines IARD (Dommages/P&C) et Santé. Architecture microservices avec 30+ APIs REST pour les processus critiques (souscription, tarification, gestion de contrats).",
-        "period": "2021 - Présent"
+      "servicesBroker": {
+        "title": "Broker de Services Financiers",
+        "description": "Participation à la conception d'une plateforme d'intégration centralisée jouant le rôle de broker entre plusieurs systèmes financiers. Orchestration de flux métiers critiques, exposition de services d'intégration et support de systèmes à forte volumétrie.",
+        "period": "Entreprise · Banque"
       },
-      "banking": {
-        "title": "Intégration Systèmes Bancaires et Marchés de Capitaux",
-        "description": "Intégration complexe de systèmes bancaires avec implémentation du protocole FIX (QuickFIX/J) pour la connexion directe aux fournisseurs de données de marché. Gestion des flux transactionnels à haut volume avec surveillance et optimisation des performances.",
-        "period": "2021 - Présent"
+      "custodianMarketData": {
+        "title": "Custodian & Market Data",
+        "description": "Intégration de systèmes de conservation d'actifs (custody) et de données de marché. Connectivité Bloomberg, implémentation QuickFIX/J, intégration de fournisseurs de données externes et traitement de flux transactionnels.",
+        "period": "Entreprise · Marchés"
       },
-      "ai_integration": {
-        "title": "Initiatives d'Intégration de l'IA",
-        "description": "Participation à l'évolution des plateformes techniques avec intégration de capacités IA/ML. Contribution à l'accompagnement des équipes dans la transition digitale et l'adoption de nouvelles technologies.",
-        "period": "2024 - Présent"
+      "dataLake": {
+        "title": "Data Lake Integration",
+        "description": "Mise en place d'intégrations alimentant un Data Lake. Gestion de flux JMS, intégration temps réel, traitement et distribution de données à l'échelle.",
+        "period": "Entreprise · Data"
+      },
+      "isabelConnector": {
+        "title": "Connecteur Bancaire Isabel",
+        "description": "Développement et intégration d'un connecteur bancaire Isabel : récupération quotidienne des transactions, automatisation des traitements, fiabilité et supervision.",
+        "period": "Entreprise · Banque"
+      },
+      "pentahoEtl": {
+        "title": "POC Pentaho Banking ETL",
+        "description": "Preuve de concept ETL destinée à une équipe bancaire, traitant plus de 100 000 enregistrements par jour. Mapping et transformation de données, présentée aux équipes produit bancaires et déployée avec succès.",
+        "period": "POC · Banque"
+      },
+      "formulaStudent": {
+        "title": "Formula Student Analytics",
+        "description": "Projet académique de data analytics pour la compétition Formula Student : visualisation des performances de course, tableaux de bord décisionnels et analyse des données de télémétrie.",
+        "period": "Académique"
+      },
+      "formula1": {
+        "title": "Formula 1 Analytics Dashboard",
+        "description": "Projet personnel d'analyse de données Formula 1 : analyse des pilotes, des circuits et des performances saisonnières via des dashboards interactifs.",
+        "period": "Personnel"
+      },
+      "aiPlatform": {
+        "title": "Plateforme d'Intégration IA",
+        "description": "Projet d'évolution d'une plateforme d'intégration intégrant des usages d'IA générative : assistance intelligente, automatisation et amélioration de l'efficacité opérationnelle pour moderniser les plateformes d'intégration.",
+        "period": "En cours"
       }
     }
   },
@@ -104,33 +128,34 @@
     "sectionNumber": "04",
     "title": "Compétences",
     "categories": {
-      "frontend": "Frontend",
-      "backend": "Backend & APIs",
-      "testing": "Tests",
-      "devops": "DevOps & CI/CD",
-      "design": "Design & UX",
-      "security": "Sécurité"
+      "backend": "Backend",
+      "integration": "Intégration",
+      "cloud": "Cloud & DevOps",
+      "data": "Data & Analytics",
+      "domain": "Banque & Assurance"
     },
     "softSkills": {
       "title": "Soft Skills",
       "items": [
-        "Pilotage et coordination de projets techniques",
-        "Support de production & Hypercare",
-        "Analyse des besoins & coordination transverse",
-        "Innovation & digitalisation des processus",
-        "Veille technologique & IA",
-        "Collaboration Agile / Scrum",
-        "Mentorat"
+        "Leadership technique",
+        "Coordination transverse",
+        "Communication client",
+        "Mentorat",
+        "Analyse métier",
+        "Gestion des parties prenantes",
+        "Résolution de problèmes complexes",
+        "Innovation",
+        "Transformation digitale"
       ]
     },
     "languages": {
       "title": "Langues",
       "arabic": "Arabe",
-      "arabicLevel": "Natif",
+      "arabicLevel": "Langue maternelle",
       "english": "Anglais",
-      "englishLevel": "Courant (C1)",
+      "englishLevel": "C1",
       "french": "Français",
-      "frenchLevel": "Courant (C1)"
+      "frenchLevel": "C1"
     }
   },
   "certifications": {
@@ -138,26 +163,27 @@
     "title": "Certifications & Formation",
     "certificationsTitle": "Certifications",
     "educationTitle": "Formation",
+    "involvementTitle": "Engagement & Activités",
     "items": {
+      "oracleJava": {
+        "title": "Oracle Certified Professional, Java SE 11 Developer",
+        "issuer": "Oracle",
+        "date": "2024"
+      },
       "oracleArchitect": {
         "title": "Oracle Database@AWS Certified Architect Professional",
         "issuer": "Oracle",
         "date": "2024"
       },
       "oracleGenAI": {
-        "title": "Oracle Cloud Infrastructure 2025 Generative AI Professional",
+        "title": "Oracle Cloud Infrastructure Generative AI Professional",
         "issuer": "Oracle",
         "date": "2025"
       },
       "oracleAI": {
-        "title": "Oracle Cloud Infrastructure 2025 AI Foundations Associate",
+        "title": "Oracle Cloud Infrastructure AI Foundations Associate",
         "issuer": "Oracle",
         "date": "2025"
-      },
-      "oracleJava": {
-        "title": "Oracle Certified Professional, Java SE 11 Developer",
-        "issuer": "Oracle",
-        "date": "2024"
       },
       "googleDataflow": {
         "title": "ETL Processing on Google Cloud using Dataflow & BigQuery",
@@ -172,22 +198,34 @@
     },
     "education": {
       "master2": {
-        "degree": "Master 2 Management de Projet et Innovation (en cours)",
+        "degree": "Master 2 Management de Projet et Innovation",
         "institution": "IAE Paris-Sorbonne",
         "location": "Paris, France",
         "year": "Sept 2026"
       },
       "esprit": {
         "degree": "Diplôme d'Ingénieur – Génie Logiciel",
-        "institution": "ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies",
+        "institution": "ESPRIT",
         "location": "Tunis, Tunisie",
-        "year": "2020-2024"
+        "year": "2020 - 2024"
       },
       "iset": {
-        "degree": "Licence – Télécommunications & Sécurité des Réseaux",
-        "institution": "Institut Supérieur des Études Technologiques en Télécommunications",
+        "degree": "Licence – Réseaux & Télécommunications",
+        "institution": "ISET'Com",
         "location": "Tunis, Tunisie",
-        "year": "2017-2020"
+        "year": "2017 - 2020"
+      }
+    },
+    "involvement": {
+      "tedx": {
+        "role": "Membre du comité organisateur",
+        "organization": "TEDx ISET'Com",
+        "date": "Mars 2019"
+      },
+      "election": {
+        "role": "Membre du bureau de vote",
+        "organization": "Élections municipales – Tunisie",
+        "date": "Mai 2018"
       }
     }
   },
@@ -195,12 +233,12 @@
     "sectionNumber": "06",
     "title": "Me Contacter",
     "subtitle": "Travaillons Ensemble",
-    "description": "Je suis actuellement ouvert aux opportunités d'alternance en management de projet et transformation digitale. Que vous ayez une question, souhaitiez discuter d'une collaboration potentielle, ou simplement dire bonjour, ma boîte de réception est toujours ouverte !",
+    "description": "Je suis actuellement à la recherche d'une alternance en management de projet et transformation digitale. Que vous souhaitiez discuter d'une collaboration, d'un projet ou simplement échanger, ma boîte de réception est toujours ouverte !",
     "email": "Email",
     "phone": "Téléphone",
     "location": "Localisation",
     "findOnline": "Retrouvez-moi en ligne :",
-    "readyTitle": "Prêt à Discuter ?",
+    "readyTitle": "Prêt à Échanger ?",
     "readyDescription": "Je réponds généralement sous 24 heures. Au plaisir de vous lire !",
     "sendEmail": "Envoyer un Email",
     "orReachOut": "Ou contactez-moi sur"
@@ -217,70 +255,5 @@
   "language": {
     "switchTo": "English",
     "current": "FR"
-  },
-  "projectDetails": {
-    "backToProjects": "Retour aux Projets",
-    "challenge": "Le Défi",
-    "solution": "La Solution",
-    "highlights": "Points Clés",
-    "results": "Résultats & Impact",
-    "role": "Mon Rôle",
-    "duration": "Durée",
-    "techStack": "Technologies",
-    "viewLive": "Voir le Site",
-    "viewCode": "Voir le Code",
-    "lowCode": {
-      "role": "Ingénieur Backend & Intégration Senior",
-      "duration": "2020 - Présent (6 ans)",
-      "challenge": "Les institutions financières opéraient avec des systèmes legacy décentralisés et fragmentés, créant des goulots d'étranglement en intégration, duplication de code, et maintenance complexe. Les processus métier critiques (souscription, tarification, gestion de contrats) étaient dispersés sur plusieurs systèmes non-intégrés. L'entreprise avait besoin d'une architecture d'intégration centralisée pour orchestrer efficacement les systèmes et réduire la complexité.",
-      "solution": "Participation à la conception et au pilotage technique d'une plateforme d'intégration centralisée (broker de services) basée sur une architecture middleware moderne. La plateforme orchestre les connexions entre systèmes legacy et modernes via Apache Camel, ActiveMQ et RabbitMQ pour la messagerie distribués. Implémentation du protocole FIX (QuickFIX/J) pour la connexion directe aux fournisseurs de données de marché. Architecture de plus de 30 APIs REST supportant les domaines métier critiques (souscription, tarification, gestion de contrats). Mise en place de patterns d'intégration sécurisée, gestion des transactions distribuées et monitoring de la santé des systèmes. Déploiement sur AWS avec Docker et Kubernetes pour l'orchestration des conteneurs et la scalabilité automatique.",
-      "results": "La plateforme sert maintenant 3 grandes institutions financières européennes avec une disponibilité de 99.9% en production. Réduction de 40% du time-to-market pour les nouvelles intégrations. Traitement de volumes transactionnels importants (décisions de trading à haute fréquence, flux d'assurance massifs) sans dégradation de performance. Résolution de 200+ problèmes critiques liés à l'intégration et mise en production de 40+ livraisons majeures. Économies d'exploitation de 35% grâce à la consolidation et l'automatisation.",
-      "highlights": [
-        "Participation à la conception et pilotage technique d'une plateforme broker de services pour systèmes financiers critiques",
-        "Implémentation du protocole FIX (QuickFIX/J) pour la connexion aux marchés de capitaux et fournisseurs de données",
-        "Architecture et livraison de 30+ APIs REST pour processus métier stratégiques",
-        "Orchestration middleware avec Apache Camel, ActiveMQ, RabbitMQ pour gestion de la messagerie distribués",
-        "Gestion de flux transactionnels à haut volume avec patterns d'intégration sécurisée",
-        "Déploiement sur AWS avec Docker et Kubernetes pour scalabilité et résilience",
-        "Transactions distribuées, monitoring de santé systèmes et alertes proactives",
-        "Support de production critique assurant 99.9% de disponibilité",
-        "Mentorat des développeurs juniors et établissement des best practices d'intégration",
-        "Participation à l'évolution pour intégrer des capacités IA/ML aux solutions d'intégration"
-      ]
-    },
-    "pijiz": {
-      "role": "Ingénieur Backend & Intégration",
-      "duration": "2021 - Présent",
-      "challenge": "Un assureur européen de premier plan (Tier-1) avait besoin de livrer rapidement des solutions d'assurance couvrant les domaines IARD (Dommages/P&C) et Santé, avec intégration aux systèmes métier legacy et support des processus critiques (souscription, tarification, gestion de contrats).",
-      "solution": "Conception et livraison d'une architecture microservices orchestrant les services d'assurance critiques. Développement d'une suite de 30+ APIs REST exposant les processus métier. Intégration avec les systèmes legacy d'pricing et d'underwriting. Implémentation des patterns transactionnels distribuées et de la cohérence métier. Migration vers AWS et déploiement en conteneurs Kubernetes avec monitoring en temps réel et alertes.",
-      "results": "Solutions en production servant des centaines de milliers de clients. Réduction de 30% des délais de souscription. Traitement automatisé de 95% des demandes d'assurance. Disponibilité en production de 99.95%. Réduction de 40% des coûts opérationnels grâce à l'automatisation. Expansion réussie vers les marchés européens.",
-      "highlights": [
-        "Architecture microservices pour solutions d'assurance Tier-1 couvrant IARD et Santé",
-        "Conception et livraison de 30+ APIs REST pour processus critiques (souscription, tarification, gestion de contrats)",
-        "Intégration aux systèmes legacy d'underwriting et pricing",
-        "Patterns transactionnels distribuées et gestion de la cohérence métier",
-        "Déploiement sur AWS en conteneurs Kubernetes avec haute disponibilité",
-        "Monitoring en temps réel et gestion des incidents de production",
-        "Support multilingue et multi-devises",
-        "Conformité aux réglementations assurantiques européennes"
-      ]
-    },
-    "banking": {
-      "role": "Ingénieur Backend & Intégration",
-      "duration": "2021 - Présent",
-      "challenge": "Les institutions financières opéraient avec des connexions fragmentées aux marchés de capitaux, fournisseurs de données, et services de compensation. Les systèmes legacy ne pouvaient pas gérer les volumes modernes de trading, et le lag d'intégration impactait la compétitivité.",
-      "solution": "Implémentation directe du protocole FIX (Financial Information eXchange) via QuickFIX/J pour la connexion critique aux bourses et fournisseurs de données de marché. Architecture d'intégration temps réel gérant les décisions de trading à haute fréquence. Implémentation des mécanismes de reconnexion automatique, gestion des ordres perdus, et réconciliation des états de marché. Optimisations de latence pour le trading algorithmique. Monitoring dédiée et alertes sur la santé des connexions FIX.",
-      "results": "Connexions robustes et performantes aux marchés majeurs. Support de volumes de trading critiques sans perte de données. Latence réduite de 60% par rapport aux solutions antérieures. Reliability de 99.99% sur les canaux FIX critiques. Expansion réussie du trading algorithmique avec nouvelles stratégies.",
-      "highlights": [
-        "Implémentation directe du protocole FIX (QuickFIX/J) pour connexion aux bourses et marchés de capitaux",
-        "Architecture temps réel pour support des décisions de trading à haute fréquence",
-        "Reconnexion automatique et réconciliation des états de marché",
-        "Optimisations de latence pour trading algorithmique",
-        "Gestion robuste des ordres et des flux transactionnels critiques",
-        "Monitoring dédiée et alertes proactives sur santé FIX",
-        "Reliability de 99.99% sur canaux critiques",
-        "Support multibroker et multiples bourses"
-      ]
-    }
   }
 }

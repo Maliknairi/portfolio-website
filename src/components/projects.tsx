@@ -18,32 +18,43 @@ interface ProjectData {
 
 const projectsData: ProjectData[] = [
   {
-    key: 'lowCode',
-    technologies: ['Angular', 'TypeScript', 'RxJS', 'NgRx', 'SASS', 'Storybook'],
-    image: '/images/projects/low-code/site_mockup.png',
+    key: 'assuranceIntegration',
+    technologies: ['Java', 'Spring Boot', 'Apache Camel', 'REST APIs', 'Docker', 'Kubernetes', 'AWS'],
     featured: true,
-    detailPage: '/projects/low-code',
   },
   {
-    key: 'pijiz',
-    technologies: ['Shopify', 'Liquid', 'JavaScript', 'CSS'],
-    image: '/images/projects/pijiz/mock_website.png',
-    liveUrl: 'https://pijiz.com',
-    detailPage: '/projects/pijiz',
+    key: 'servicesBroker',
+    technologies: ['Java', 'Apache Camel', 'JMS', 'ActiveMQ', 'RabbitMQ'],
   },
   {
-    key: 'dubai',
-    technologies: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS'],
+    key: 'custodianMarketData',
+    technologies: ['Java', 'QuickFIX/J', 'Apache Camel', 'FIX Protocol'],
   },
   {
-    key: 'banking',
-    technologies: ['Angular', 'TypeScript', 'Jest', 'Cypress'],
-    detailPage: '/projects/banking',
+    key: 'dataLake',
+    technologies: ['JMS', 'ActiveMQ', 'Java', 'Apache Camel'],
   },
   {
-    key: 'nrg',
-    technologies: ['WordPress', 'PHP', 'CSS', 'SEO'],
-    liveUrl: 'https://nrgglobalpower.us',
+    key: 'isabelConnector',
+    technologies: ['Java', 'Apache Camel', 'Scheduling', 'Banking Integration'],
+  },
+  {
+    key: 'pentahoEtl',
+    technologies: ['Pentaho', 'ETL', 'SQL', 'Java'],
+  },
+  {
+    key: 'formulaStudent',
+    technologies: ['Power BI', 'Data Analytics', 'Data Visualization'],
+    image: '/images/projects/formula1/race-pulse-2.png',
+  },
+  {
+    key: 'formula1',
+    technologies: ['Power BI', 'Data Modeling', 'Data Visualization'],
+    image: '/images/projects/formula1/race-pulse.png',
+  },
+  {
+    key: 'aiPlatform',
+    technologies: ['Generative AI', 'Java', 'AWS', 'Enterprise Integration'],
   },
 ];
 
