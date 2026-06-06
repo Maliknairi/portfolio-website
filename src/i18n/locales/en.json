@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "Transitioning to project management",
+    "available": "Currently seeking an apprenticeship in project management or IT project management",
     "greeting": "Hi, I'm",
     "title": "Software Engineer",
     "titleSeparator": "|",
     "subtitle": "Backend & Integration Expert | Project Management",
     "location": "Tunis, Tunisia · Relocating to Paris",
-    "description": "Information systems professional with <years>5+ years</years> of experience designing and deploying critical solutions for financial and insurance sectors. Currently transitioning to technology project management and digital transformation.",
+    "description": "Information systems professional with <years>over 5 years</years> of experience designing and deploying critical solutions for the banking and insurance sectors. Currently transitioning to project management and digital transformation. I have also been admitted to the Master’s program in Project Management and Innovation at IAE Paris-Sorbonne. Seeking a work-study opportunity in project management or IT project management.",
     "cta": {
       "contact": "Get in Touch",
       "projects": "View Projects"

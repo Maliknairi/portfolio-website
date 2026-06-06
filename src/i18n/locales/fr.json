@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "En transition vers le management de projet",
+    "available": "À la recherche d’une alternance en management de projet ou en gestion de projets IT",
     "greeting": "Bonjour, je suis",
     "title": "Ingénieur Logiciel",
     "titleSeparator": "|",
     "subtitle": "Expert Backend & Intégration | Management de Projet",
     "location": "Tunis, Tunisie · Relocalisation vers Paris",
-    "description": "Professionnel des systèmes d'information avec <years>5+ ans</years> d'expérience dans la conception et la mise en production de solutions critiques pour les secteurs bancaire et assurantiel. Actuellement en transition vers le pilotage de projets technologiques et la transformation digitale.",
+    "description": "Professionnel des systèmes d’information avec plus de <years>5+ ans</years> d’expérience dans la conception et le déploiement de solutions critiques dans les secteurs bancaire et assurantiel. En transition vers le management de projet et la transformation digitale. Je suis également admis en Master 2 Management de Projet et Innovation à l’IAE Paris-Sorbonne. À la recherche d’une alternance en management de projet ou en gestion de projets IT.",
     "cta": {
       "contact": "Me Contacter",
       "projects": "Voir les Projets"
@@ -32,7 +32,7 @@
     "highlight1": "la conception et la livraison de solutions critiques",
     "intro2": "pour les secteurs bancaire et assurantiel. Avec une expertise approfondie en intégration de systèmes, orchestration middleware et architecture microservices, j'ai contribué à des projets stratégiques pour des acteurs européens de premier plan.",
     "current1": "Chez",
-    "company": "VERMEG",
+    "company": "VERMEG ",
     "current2": "depuis octobre 2020, j'ai participé à la conception d'une",
     "highlight2": "plateforme d'intégration centralisée (broker de services) utilisée dans des systèmes financiers critiques",
     "current3": "et livré plus de 30 APIs REST supportant des processus métier stratégiques. Actuellement en transition vers le management de projet et l'innovation, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",

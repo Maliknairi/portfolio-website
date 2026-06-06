@@ -65,12 +65,7 @@ export function Contact() {
       icon: Linkedin,
       label: 'LinkedIn',
       href: 'https://linkedin.com/in/malik-nairi-388129172',
-    },
-    {
-      icon: Github,
-      label: 'GitHub',
-      href: 'https://github.com/malik-nairi',
-    },
+    }
   ];
 
   return (
