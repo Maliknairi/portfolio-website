@@ -21,14 +21,17 @@ const projectsData: ProjectData[] = [
     key: 'assuranceIntegration',
     technologies: ['Java', 'Spring Boot', 'Apache Camel', 'REST APIs', 'Docker', 'Kubernetes', 'AWS'],
     featured: true,
+    image: '/images/projects/xchanger.png',
   },
   {
     key: 'servicesBroker',
     technologies: ['Java', 'Apache Camel', 'JMS', 'ActiveMQ', 'RabbitMQ'],
+    image: '/images/projects/xchanger.png',
   },
   {
     key: 'custodianMarketData',
     technologies: ['Java', 'QuickFIX/J', 'Apache Camel', 'FIX Protocol'],
+    image: '/images/projects/custodix.png',
   },
   {
     key: 'dataLake',
