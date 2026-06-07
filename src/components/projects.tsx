@@ -43,13 +43,8 @@ const projectsData: ProjectData[] = [
     technologies: ['Pentaho', 'ETL', 'SQL', 'Java'],
   },
   {
-    key: 'formulaStudent',
-    technologies: ['Power BI', 'Data Analytics', 'Data Visualization'],
-    image: '/images/projects/formula1/race-pulse-2.png',
-  },
-  {
     key: 'formula1',
-    technologies: ['Power BI', 'Data Modeling', 'Data Visualization'],
+    technologies: ['Power BI', 'Data Analytics', 'Data Modeling', 'Data Visualization'],
     image: '/images/projects/formula1/race-pulse.png',
   },
   {

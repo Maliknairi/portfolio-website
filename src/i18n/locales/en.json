@@ -107,15 +107,10 @@
         "description": "ETL proof of concept for a banking team, processing 100,000+ records per day. Data mapping and transformation, presented to banking product teams and successfully deployed.",
         "period": "PoC · Banking"
       },
-      "formulaStudent": {
-        "title": "Formula Student Analytics",
-        "description": "Academic data analytics project for the Formula Student competition: race performance visualization, decision-support dashboards and telemetry data analysis.",
-        "period": "Academic"
-      },
       "formula1": {
-        "title": "Formula 1 Analytics Dashboard",
-        "description": "Personal Formula 1 data analysis project: driver analysis, circuit analysis and season performance analysis through interactive dashboards.",
-        "period": "Personal"
+        "title": "Academic Formula 1 Analytics",
+        "description": "Academic data analytics project around Formula 1: driver, circuit and season performance analysis, telemetry data exploration and interactive decision-support dashboards.",
+        "period": "Academic"
       },
       "aiPlatform": {
         "title": "AI-Powered Integration Platform",

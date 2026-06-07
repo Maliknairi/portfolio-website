@@ -107,15 +107,10 @@
         "description": "Preuve de concept ETL destinée à une équipe bancaire, traitant plus de 100 000 enregistrements par jour. Mapping et transformation de données, présentée aux équipes produit bancaires et déployée avec succès.",
         "period": "POC · Banque"
       },
-      "formulaStudent": {
-        "title": "Formula Student Analytics",
-        "description": "Projet académique de data analytics pour la compétition Formula Student : visualisation des performances de course, tableaux de bord décisionnels et analyse des données de télémétrie.",
-        "period": "Académique"
-      },
       "formula1": {
-        "title": "Formula 1 Analytics Dashboard",
-        "description": "Projet personnel d'analyse de données Formula 1 : analyse des pilotes, des circuits et des performances saisonnières via des dashboards interactifs.",
-        "period": "Personnel"
+        "title": "Formula 1 Analytics – Projet Académique",
+        "description": "Projet académique de data analytics autour de la Formule 1 : analyse des pilotes, des circuits et des performances saisonnières, exploitation de données de télémétrie et création de tableaux de bord décisionnels interactifs.",
+        "period": "Académique"
       },
       "aiPlatform": {
         "title": "Plateforme d'Intégration IA",
