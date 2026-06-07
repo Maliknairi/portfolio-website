@@ -89,16 +89,17 @@ export function About() {
             <div className="space-y-8">
               {/* Profile Image Placeholder */}
               <motion.div
-                className="relative aspect-square max-w-sm mx-auto"
+                className="relative w-full max-w-sm mx-auto"
                 whileHover={{ scale: 1.02 }}
-                transition={{ duration: 0.3 }}
-              >
+                transition={{ duration: 0.3 }}  
+                >
                 <div className="absolute inset-0 bg-gradient-to-br from-day-accent/20 to-day-accent-alt/20 dark:from-night-cyan/20 dark:to-night-accent/20 rounded-2xl transform rotate-3" />
-                <div className="relative bg-day-bg-alt dark:bg-night-bg-alt rounded-2xl overflow-hidden border border-day-bg-highlight dark:border-night-bg-highlight">
+
+                <div className="relative rounded-2xl overflow-hidden border border-day-bg-highlight dark:border-night-bg-highlight">
                   <img
                     src="/images/profile_image.jpg"
                     alt={t("imagePlaceholder")}
-                    className="w-full h-full object-cover"
+                    className="w-full h-auto object-cover"
                   />
                 </div>
               </motion.div>
