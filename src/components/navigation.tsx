@@ -32,7 +32,7 @@ export function Navigation() {
   ];
 
   // Get CV filename based on locale
-  const cvFilename = locale === 'fr' ? '/images/Malik-NAIRI-CV-FR.pdf' : '/images/Malik-NAIRI-CV-FR.pdf';
+  const cvFilename = locale === 'fr' ? '/images/Malik-Nairi-CV-FR.pdf' : '/images/Malik-Nairi-CV-FR.pdf';
 
   useEffect(() => {
     const handleScroll = () => {
