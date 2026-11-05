@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Malik NAIRI | Software Engineer — Backend & Integration",
+    "title": "Malik NAIRI | Software Engineer, Backend & Integration",
     "description": "Software Engineer with 6 years of experience in banking, insurance and capital markets. Backend development in Java / Spring Boot, REST API design and enterprise systems integration (Apache Camel, messaging, AWS)."
   },
   "nav": {
@@ -36,7 +36,7 @@
     "current2": " since October 2020, I have designed and developed",
     "highlight2": "30+ REST APIs for a leading European insurer",
     "current3": "and contributed to a centralised integration platform between financial systems. I am also involved in running applications in production: 50+ releases, two major production deployment operations and 200+ tickets resolved, including on-site client assignments in Paris.",
-    "personal": "I use AI-assisted development tools (Cursor, GitHub Copilot, Claude) every day and contribute to an internal R&D initiative at VERMEG on generative AI in integration platforms. I am also expanding my frontend skills with Angular and TypeScript through personal projects.",
+    "personal": "Day to day, I work with Cursor, GitHub Copilot and Claude, and at VERMEG I take part in an R&D project on generative AI for integration platforms. On the frontend side, I am learning Angular and TypeScript through personal projects.",
     "techTitle": "Technologies I work with daily:",
     "stats": {
       "years": "Years of Experience",
@@ -51,7 +51,7 @@
     "title": "Experience",
     "jobs": {
       "vermeg_backend": {
-        "title": "Software Engineer — Backend & Integration",
+        "title": "Software Engineer, Backend & Integration",
         "company": "VERMEG",
         "location": "Tunis, Tunisia · Permanent · On-site assignments in Paris",
         "period": "Oct 2020 – Present",
@@ -112,7 +112,7 @@
       "aiPlatform": {
         "title": "AI-Augmented Integration Platform",
         "description": "Contributing to an enterprise-inspired integration platform enhanced with an AI assistant powered by the Claude API (Anthropic), designed to support integration-flow design and monitoring. Exploring route monitoring with CamelBee and recent Apache Camel versions.",
-        "period": "Internal R&D — VERMEG"
+        "period": "VERMEG · Internal R&D"
       },
       "aiSkills": {
         "title": "Reusable Skills for AI Agents",
@@ -135,8 +135,8 @@
       "cloud": "Cloud & DevOps",
       "data": "Data & Analytics",
       "domain": "Banking & Insurance",
-      "frontend": "Frontend (learning)",
-      "ai": "AI & Development Practices"
+      "frontend": "Frontend",
+      "ai": "AI Tools"
     },
     "softSkills": {
       "title": "Soft Skills",
@@ -204,8 +204,8 @@
     },
     "education": {
       "esprit": {
-        "degree": "Engineering Degree — Software Engineering (evening programme)",
-        "institution": "ESPRIT",
+        "degree": "Engineering Degree in Software Engineering",
+        "institution": "ESPRIT (part-time evening classes while working full-time at VERMEG)",
         "location": "Tunis, Tunisia",
         "year": "2020 - 2024"
       },

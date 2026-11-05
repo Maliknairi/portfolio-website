@@ -36,6 +36,7 @@ const certificationsData: CertificationData[] = [
     key: 'psm',
     credentialId: 'PSM I',
     icon: '🔄',
+    logo: '/images/certs/psm-i.png',
     credentialUrl: 'https://www.credly.com/badges/b2df8558-42a7-4962-a1e8-471ca7f2e2da',
   },
   {

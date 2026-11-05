@@ -1,8 +1,8 @@
 # Malik NAIRI — Portfolio
 
-Portfolio personnel de **Malik NAIRI**, Ingénieur logiciel — Backend & intégration (banque, assurance et marchés financiers). Site bilingue (FR par défaut / EN), construit avec Next.js, Tailwind CSS et Framer Motion.
+Portfolio personnel de **Malik NAIRI**, Ingénieur logiciel Backend & Intégration (banque, assurance et marchés financiers). Site bilingue (FR par défaut / EN), construit avec Next.js, Tailwind CSS et Framer Motion.
 
-/ Personal portfolio of **Malik NAIRI**, Software Engineer — Backend & Integration (banking, insurance and capital markets). Bilingual site (French default / English), built with Next.js, Tailwind CSS and Framer Motion.
+/ Personal portfolio of **Malik NAIRI**, Software Engineer, Backend & Integration (banking, insurance and capital markets). Bilingual site (French default / English), built with Next.js, Tailwind CSS and Framer Motion.
 
 ## Features
 

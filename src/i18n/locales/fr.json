@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Malik NAIRI | Ingénieur logiciel — Backend & intégration",
+    "title": "Malik NAIRI | Ingénieur logiciel Backend & Intégration",
     "description": "Ingénieur logiciel avec 6 ans d'expérience en banque, assurance et marchés financiers. Développement backend Java / Spring Boot, conception d'API REST et intégration de systèmes d'entreprise (Apache Camel, messaging, AWS)."
   },
   "nav": {
@@ -36,7 +36,7 @@
     "current2": " depuis octobre 2020, j'ai conçu et développé",
     "highlight2": "plus de 30 API REST pour un assureur européen de premier plan",
     "current3": "et contribué à une plateforme d'intégration centralisée entre systèmes financiers. Je participe aussi à la vie des applications en production : plus de 50 releases, deux opérations majeures de déploiement et plus de 200 tickets traités, avec des missions sur site chez des clients à Paris.",
-    "personal": "J'utilise au quotidien des outils de développement assistés par l'IA (Cursor, GitHub Copilot, Claude) et je contribue à une initiative interne de R&D chez VERMEG autour de l'IA générative dans les plateformes d'intégration. En parallèle, je développe mes compétences frontend avec Angular et TypeScript à travers des projets personnels.",
+    "personal": "Au quotidien, je travaille avec Cursor, GitHub Copilot et Claude, et je participe chez VERMEG à un projet de R&D sur l'IA générative appliquée aux plateformes d'intégration. Côté frontend, je me forme à Angular et TypeScript sur des projets personnels.",
     "techTitle": "Technologies que j'utilise au quotidien :",
     "stats": {
       "years": "Ans d'expérience",
@@ -51,7 +51,7 @@
     "title": "Expérience",
     "jobs": {
       "vermeg_backend": {
-        "title": "Ingénieur logiciel — Backend & intégration",
+        "title": "Ingénieur logiciel Backend & Intégration",
         "company": "VERMEG",
         "location": "Tunis, Tunisie · CDI · Missions sur site à Paris",
         "period": "Oct 2020 – Aujourd'hui",
@@ -80,7 +80,7 @@
     "screenshotPlaceholder": "Projet entreprise",
     "items": {
       "assuranceIntegration": {
-        "title": "API de souscription — Assurance",
+        "title": "API de souscription en assurance",
         "description": "Conception et développement de plus de 30 API REST en Java 11 et Spring Boot pour les parcours de souscription d'un assureur européen de premier plan : IARD, bris de machine, santé et garage.",
         "period": "VERMEG · Assurance"
       },
@@ -112,7 +112,7 @@
       "aiPlatform": {
         "title": "Plateforme d'intégration augmentée par l'IA",
         "description": "Contribution à une plateforme d'intégration inspirée des solutions d'entreprise, enrichie par un assistant IA basé sur l'API Claude (Anthropic) pour accompagner la conception et le suivi des flux. Exploration de la supervision des routes avec CamelBee et des versions récentes d'Apache Camel.",
-        "period": "R&D interne — VERMEG"
+        "period": "VERMEG · R&D interne"
       },
       "aiSkills": {
         "title": "Skills et workflows pour agents IA",
@@ -135,8 +135,8 @@
       "cloud": "Cloud & DevOps",
       "data": "Data & Analytics",
       "domain": "Banque & Assurance",
-      "frontend": "Frontend (en apprentissage)",
-      "ai": "IA & pratiques de développement"
+      "frontend": "Frontend",
+      "ai": "Outils IA"
     },
     "softSkills": {
       "title": "Soft Skills",
@@ -204,8 +204,8 @@
     },
     "education": {
       "esprit": {
-        "degree": "Diplôme d'ingénieur — Génie logiciel (cursus du soir)",
-        "institution": "ESPRIT",
+        "degree": "Diplôme d'ingénieur en génie logiciel",
+        "institution": "ESPRIT (cours du soir, en parallèle de mon poste chez VERMEG)",
         "location": "Tunis, Tunisie",
         "year": "2020 - 2024"
       },

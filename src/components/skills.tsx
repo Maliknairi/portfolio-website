@@ -48,7 +48,7 @@ const skillCategories: SkillCategory[] = [
   {
     icon: Sparkles,
     key: 'ai',
-    skills: ['Cursor', 'GitHub Copilot', 'Claude', 'Claude API', 'AI agent skills', 'Agentic workflows', 'Prompt engineering'],
+    skills: ['Cursor', 'GitHub Copilot', 'Claude', 'Claude API', 'Prompt engineering'],
     color: 'yellow',
   },
   {
