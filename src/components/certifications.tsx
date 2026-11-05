@@ -33,6 +33,13 @@ const certificationsData: CertificationData[] = [
       'https://catalog-education.oracle.com/ords/certview/sharebadge?id=B0CC235ADA566AF294B59BD34BA8A8100BB45A92834AF9F4464CB0DE81B60CAD',
   },
   {
+    key: 'psm',
+    credentialId: 'PSM I',
+    icon: '🔄',
+    logo: '/images/certs/psm-i.png',
+    credentialUrl: 'https://www.credly.com/badges/b2df8558-42a7-4962-a1e8-471ca7f2e2da',
+  },
+  {
     key: 'oracleArchitect',
     credentialId: '1Z0-1146',
     icon: '🗄️',
@@ -72,7 +79,6 @@ const certificationsData: CertificationData[] = [
 ];
 
 const educationData: EducationData[] = [
-  { key: 'master2' },
   { key: 'esprit' },
   { key: 'iset' },
 ];

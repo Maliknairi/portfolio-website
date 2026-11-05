@@ -12,9 +12,9 @@ export function About() {
   const isInView = useInView(ref, { once: true, margin: "-100px" });
 
   const stats = [
-    { icon: Code2, value: "5+", label: t("stats.years") },
+    { icon: Code2, value: "6+", label: t("stats.years") },
     { icon: Users, value: "30+", label: t("stats.users") },
-    { icon: Award, value: "6", label: t("stats.certifications") },
+    { icon: Award, value: "7", label: t("stats.certifications") },
     { icon: Globe, value: "3", label: t("stats.languages") },
   ];
 

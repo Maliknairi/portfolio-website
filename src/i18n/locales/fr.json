@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Malik NAIRI | Ingénieur Backend & Intégration",
-    "description": "Ingénieur Backend & Intégration avec plus de 5 ans d'expérience dans les secteurs bancaire et assurantiel. Expertise en architecture microservices, intégration de systèmes distribués, Apache Camel et Cloud AWS. En transition vers le management de projet et la transformation digitale."
+    "title": "Malik NAIRI | Ingénieur logiciel Backend & Intégration",
+    "description": "Ingénieur logiciel avec 6 ans d'expérience en banque, assurance et marchés financiers. Développement backend Java / Spring Boot, conception d'API REST et intégration de systèmes d'entreprise (Apache Camel, messaging, AWS)."
   },
   "nav": {
     "about": "À propos",
@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "Recherche d'une alternance en Management de Projet & Transformation Digitale (rentrée septembre 2026)",
+    "available": "Ouvert à un poste d'ingénieur logiciel en CDI · Paris / Île-de-France",
     "greeting": "Bonjour, je suis",
-    "title": "Ingénieur Backend & Intégration",
+    "title": "Ingénieur logiciel",
     "titleSeparator": "|",
-    "subtitle": "Expertise Banque & Assurance · Transformation Digitale · Futur Chef de Projet",
-    "location": "Tunisie · Mobilité Paris",
-    "description": "Professionnel des systèmes d'information avec <years>plus de 5 ans</years> d'expérience dans les secteurs bancaire et assurantiel. J'ai conçu, développé et mis en production des solutions critiques d'intégration pour des acteurs européens majeurs. En transition vers le management de projet et la transformation digitale, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",
+    "subtitle": "Backend & intégration · Banque, assurance & marchés financiers",
+    "location": "Tunis, Tunisie · Mobilité : Paris / Île-de-France",
+    "description": "Ingénieur logiciel avec <years>6 ans</years> d'expérience dans la conception, le développement et l'évolution de solutions logicielles pour la banque, l'assurance et les marchés financiers. Développement backend Java et Spring Boot, conception d'API REST et intégration de systèmes d'entreprise, de la conception technique au support en production.",
     "cta": {
       "contact": "Me Contacter",
       "projects": "Voir les Projets"
@@ -28,19 +28,19 @@
   "about": {
     "sectionNumber": "01",
     "title": "À Propos de Moi",
-    "intro": "Je suis un professionnel des systèmes d'information spécialisé dans",
-    "highlight1": "la conception et l'intégration de solutions critiques",
-    "intro2": "pour les secteurs bancaire et assurantiel. Mon expertise couvre le développement backend Java, l'architecture microservices, l'intégration de systèmes distribués (Apache Camel, Enterprise Integration Patterns), l'API Management, le middleware et le Cloud AWS.",
+    "intro": "Je suis ingénieur logiciel, spécialisé dans",
+    "highlight1": "le développement backend et l'intégration de systèmes d'entreprise",
+    "intro2": "pour la banque, l'assurance et les marchés financiers : Java, Spring Boot, API REST, Apache Camel et Enterprise Integration Patterns, messaging asynchrone et environnements AWS.",
     "current1": "Chez",
     "company": "VERMEG",
-    "current2": " depuis octobre 2020, j'ai participé à la conception et au pilotage technique d'une",
-    "highlight2": "plateforme d'intégration centralisée utilisée dans des systèmes financiers critiques",
-    "current3": "et mis en production plus de 30 APIs REST pour des acteurs européens majeurs, avec plusieurs missions client à Paris. Actuellement en transition vers le management de projet et la transformation digitale, j'intégrerai en septembre 2026 le Master 2 Management de Projet et Innovation de l'IAE Paris-Sorbonne.",
-    "personal": "Au-delà du développement, j'ai évolué vers le leadership technique, la coordination transverse et l'innovation. Je me distingue par ma capacité à comprendre les enjeux métier, à coordonner les parties prenantes dans des environnements internationaux et à livrer des solutions robustes, maintenables et à fort impact.",
+    "current2": " depuis octobre 2020, j'ai conçu et développé",
+    "highlight2": "plus de 30 API REST pour un assureur européen de premier plan",
+    "current3": "et contribué à une plateforme d'intégration centralisée entre systèmes financiers. Je participe aussi à la vie des applications en production : plus de 50 releases, deux opérations majeures de déploiement et plus de 200 tickets traités, avec des missions sur site chez des clients à Paris.",
+    "personal": "Au quotidien, je travaille avec Cursor, GitHub Copilot et Claude, et je participe chez VERMEG à un projet de R&D sur l'IA générative appliquée aux plateformes d'intégration. Côté frontend, je me forme à Angular et TypeScript sur des projets personnels.",
     "techTitle": "Technologies que j'utilise au quotidien :",
     "stats": {
-      "years": "Ans d'Expérience",
-      "users": "APIs REST en Production",
+      "years": "Ans d'expérience",
+      "users": "API REST conçues",
       "certifications": "Certifications",
       "languages": "Langues"
     },
@@ -51,19 +51,21 @@
     "title": "Expérience",
     "jobs": {
       "vermeg_backend": {
-        "title": "Ingénieur Backend & Intégration",
+        "title": "Ingénieur logiciel Backend & Intégration",
         "company": "VERMEG",
-        "location": "Tunisie",
+        "location": "Tunis, Tunisie · CDI · Missions sur site à Paris",
         "period": "Oct 2020 – Aujourd'hui",
         "description": [
-          "Participation à la conception et au pilotage technique d'une plateforme d'intégration centralisée utilisée dans des systèmes financiers critiques.",
-          "Mise en production de solutions d'assurance pour un assureur européen de premier plan.",
-          "Conception et mise en production de plus de 30 APIs REST.",
-          "Développement de solutions d'intégration distribuées.",
-          "Participation aux initiatives IA et de transformation digitale.",
-          "Support de production et hypercare.",
-          "Missions client sur site à Paris.",
-          "Mentorat et accompagnement de développeurs juniors."
+          "Conception et développement de plus de 30 API REST avec Java 11 et Spring Boot pour les parcours de souscription d'un assureur européen de premier plan (IARD, bris de machine, santé, garage).",
+          "Développement de couches d'intégration et d'orchestration avec Apache Camel et les Enterprise Integration Patterns entre des systèmes métier hétérogènes.",
+          "Contribution à une plateforme d'intégration centralisée assurant l'intermédiation entre différents systèmes financiers.",
+          "Implémentation du protocole FIX avec QuickFIX/J et intégration de connectivités Bloomberg pour des systèmes de conservation d'actifs et des fournisseurs de données de marché.",
+          "Développement de flux asynchrones avec JMS, ActiveMQ, RabbitMQ et AWS SQS, notamment pour l'alimentation d'un Data Lake ; connecteur bancaire Isabel.",
+          "Contribution à plus de 50 releases (évolutions et correctifs) et participation à deux opérations majeures de déploiement en production : préparation, Go/No-Go, déploiement et hypercare.",
+          "Traitement de plus de 200 tickets : évolutions, anomalies et incidents de production, du diagnostic à la correction.",
+          "Environnements AWS, Docker, Kubernetes et Argo CD ; pipelines Jenkins et GitLab CI ; Maven et Nexus.",
+          "Utilisation de Cursor, GitHub Copilot et Claude au quotidien ; contribution à une initiative interne de R&D sur l'IA générative dans les plateformes d'intégration.",
+          "Collaboration avec des équipes internationales et des clients européens ; mentorat et onboarding de développeurs juniors."
         ]
       }
     }
@@ -78,44 +80,49 @@
     "screenshotPlaceholder": "Projet entreprise",
     "items": {
       "assuranceIntegration": {
-        "title": "Plateforme d'Intégration Assurance",
-        "description": "Conception et intégration d'une architecture distribuée supportant les parcours de souscription d'assurance (IARD, Bris de Machine, Santé, Garage, Boost). Plus de 30 APIs REST, intégration de plusieurs systèmes backend et architecture orientée services, déployées en environnement critique.",
-        "period": "Entreprise · Assurance"
+        "title": "API de souscription en assurance",
+        "description": "Conception et développement de plus de 30 API REST en Java 11 et Spring Boot pour les parcours de souscription d'un assureur européen de premier plan : IARD, bris de machine, santé et garage.",
+        "period": "VERMEG · Assurance"
       },
       "servicesBroker": {
-        "title": "Broker de Services Financiers",
-        "description": "Participation à la conception d'une plateforme d'intégration centralisée jouant le rôle de broker entre plusieurs systèmes financiers. Orchestration de flux métiers critiques, exposition de services d'intégration et support de systèmes à forte volumétrie.",
-        "period": "Entreprise · Banque"
+        "title": "Plateforme d'intégration centralisée",
+        "description": "Contribution à une plateforme d'intégration jouant le rôle de broker entre plusieurs systèmes financiers : orchestration de flux métier critiques avec Apache Camel et messaging asynchrone.",
+        "period": "VERMEG · Banque"
       },
       "custodianMarketData": {
-        "title": "Custodian & Market Data",
-        "description": "Intégration de systèmes de conservation d'actifs (custody) et de données de marché. Connectivité Bloomberg, implémentation QuickFIX/J, intégration de fournisseurs de données externes et traitement de flux transactionnels.",
-        "period": "Entreprise · Marchés"
+        "title": "Custody & données de marché",
+        "description": "Implémentation du protocole FIX avec QuickFIX/J et intégration de connectivités Bloomberg pour des systèmes de conservation d'actifs et des fournisseurs de données de marché externes.",
+        "period": "VERMEG · Marchés financiers"
       },
       "dataLake": {
-        "title": "Data Lake Integration",
-        "description": "Mise en place d'intégrations alimentant un Data Lake. Gestion de flux JMS, intégration temps réel, traitement et distribution de données à l'échelle.",
-        "period": "Entreprise · Data"
+        "title": "Alimentation d'un Data Lake",
+        "description": "Développement de flux asynchrones avec JMS, ActiveMQ, RabbitMQ et AWS SQS pour l'alimentation d'un Data Lake.",
+        "period": "VERMEG · Data"
       },
       "isabelConnector": {
-        "title": "Connecteur Bancaire Isabel",
-        "description": "Développement et intégration d'un connecteur bancaire Isabel : récupération quotidienne des transactions, automatisation des traitements, fiabilité et supervision.",
-        "period": "Entreprise · Banque"
+        "title": "Connecteur bancaire Isabel",
+        "description": "Développement d'un connecteur bancaire Isabel automatisant la récupération quotidienne des transactions.",
+        "period": "VERMEG · Banque"
       },
       "pentahoEtl": {
-        "title": "POC Pentaho Banking ETL",
-        "description": "Preuve de concept ETL destinée à une équipe bancaire, traitant plus de 100 000 enregistrements par jour. Mapping et transformation de données, présentée aux équipes produit bancaires et déployée avec succès.",
-        "period": "POC · Banque"
-      },
-      "formula1": {
-        "title": "Formula 1 Analytics – Projet Académique",
-        "description": "Projet académique de data analytics autour de la Formule 1 : analyse des pilotes, des circuits et des performances saisonnières, exploitation de données de télémétrie et création de tableaux de bord décisionnels interactifs.",
-        "period": "Académique"
+        "title": "POC ETL bancaire",
+        "description": "Preuve de concept ETL pour une équipe bancaire : mapping et transformation de plus de 100 000 enregistrements par jour. Présentation aux équipes produit et déploiement du POC.",
+        "period": "VERMEG · POC"
       },
       "aiPlatform": {
-        "title": "Plateforme d'Intégration IA",
-        "description": "Projet d'évolution d'une plateforme d'intégration intégrant des usages d'IA générative : assistance intelligente, automatisation et amélioration de l'efficacité opérationnelle pour moderniser les plateformes d'intégration.",
-        "period": "En cours"
+        "title": "Plateforme d'intégration augmentée par l'IA",
+        "description": "Contribution à une plateforme d'intégration inspirée des solutions d'entreprise, enrichie par un assistant IA basé sur l'API Claude (Anthropic) pour accompagner la conception et le suivi des flux. Exploration de la supervision des routes avec CamelBee et des versions récentes d'Apache Camel.",
+        "period": "VERMEG · R&D interne"
+      },
+      "aiSkills": {
+        "title": "Skills et workflows pour agents IA",
+        "description": "Création de skills réutilisables pour agents IA, associant instructions spécialisées et workflows agentiques pour assister des tâches d'ingénierie : analyse de code, documentation et assistance au développement.",
+        "period": "Expérimentation personnelle"
+      },
+      "formula1": {
+        "title": "Formula 1 Analytics",
+        "description": "Projet académique de data analytics autour de la Formule 1 : analyse des pilotes, des circuits et des performances saisonnières, et tableaux de bord interactifs.",
+        "period": "Projet académique"
       }
     }
   },
@@ -127,20 +134,19 @@
       "integration": "Intégration",
       "cloud": "Cloud & DevOps",
       "data": "Data & Analytics",
-      "domain": "Banque & Assurance"
+      "domain": "Banque & Assurance",
+      "frontend": "Frontend",
+      "ai": "Outils IA"
     },
     "softSkills": {
       "title": "Soft Skills",
       "items": [
-        "Leadership technique",
-        "Coordination transverse",
+        "Analyse et résolution d'incidents",
         "Communication client",
+        "Collaboration internationale",
         "Mentorat",
         "Analyse métier",
-        "Gestion des parties prenantes",
-        "Résolution de problèmes complexes",
-        "Innovation",
-        "Transformation digitale"
+        "Documentation technique"
       ]
     },
     "languages": {
@@ -164,6 +170,11 @@
         "title": "Oracle Certified Professional, Java SE 11 Developer",
         "issuer": "Oracle",
         "date": "2024"
+      },
+      "psm": {
+        "title": "Professional Scrum Master I (PSM I)",
+        "issuer": "Scrum.org",
+        "date": "2026"
       },
       "oracleArchitect": {
         "title": "Oracle Database@AWS Certified Architect Professional",
@@ -192,15 +203,9 @@
       }
     },
     "education": {
-      "master2": {
-        "degree": "Master 2 Management de Projet et Innovation",
-        "institution": "IAE Paris-Sorbonne",
-        "location": "Paris, France",
-        "year": "Sept 2026"
-      },
       "esprit": {
-        "degree": "Diplôme d'Ingénieur – Génie Logiciel",
-        "institution": "ESPRIT",
+        "degree": "Diplôme d'ingénieur en génie logiciel",
+        "institution": "ESPRIT (cours du soir, en parallèle de mon poste chez VERMEG)",
         "location": "Tunis, Tunisie",
         "year": "2020 - 2024"
       },
@@ -228,7 +233,7 @@
     "sectionNumber": "06",
     "title": "Me Contacter",
     "subtitle": "Travaillons Ensemble",
-    "description": "Je suis actuellement à la recherche d'une alternance en management de projet et transformation digitale. Que vous souhaitiez discuter d'une collaboration, d'un projet ou simplement échanger, ma boîte de réception est toujours ouverte !",
+    "description": "Je suis ouvert à un poste d'ingénieur logiciel en CDI à Paris / Île-de-France, en backend et intégration. Pour échanger sur une opportunité ou un projet, écrivez-moi.",
     "email": "Email",
     "phone": "Téléphone",
     "location": "Localisation",

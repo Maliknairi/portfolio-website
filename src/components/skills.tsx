@@ -11,6 +11,8 @@ import {
   Landmark,
   Languages,
   Brain,
+  Sparkles,
+  Monitor,
 } from 'lucide-react';
 
 interface SkillCategory {
@@ -44,9 +46,21 @@ const skillCategories: SkillCategory[] = [
     color: 'accent',
   },
   {
+    icon: Sparkles,
+    key: 'ai',
+    skills: ['Cursor', 'GitHub Copilot', 'Claude', 'Claude API', 'Prompt engineering'],
+    color: 'yellow',
+  },
+  {
+    icon: Monitor,
+    key: 'frontend',
+    skills: ['Angular', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
+    color: 'cyan',
+  },
+  {
     icon: Cloud,
     key: 'cloud',
-    skills: ['AWS', 'Docker', 'Kubernetes', 'Jenkins', 'CI/CD', 'Git', 'Linux'],
+    skills: ['AWS', 'Docker', 'Kubernetes', 'Argo CD', 'Jenkins', 'GitLab CI', 'Nexus', 'Git', 'Linux'],
     color: 'green',
   },
   {
