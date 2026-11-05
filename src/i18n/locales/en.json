@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Malik NAIRI | Backend & Integration Engineer",
-    "description": "Backend & Integration Engineer with 5+ years of experience in the banking and insurance sectors. Expert in microservices architecture, distributed systems integration, Apache Camel and AWS Cloud. Transitioning toward project management and digital transformation."
+    "title": "Malik NAIRI | Software Engineer — Backend & Integration",
+    "description": "Software Engineer with 6 years of experience in banking, insurance and capital markets. Backend development in Java / Spring Boot, REST API design and enterprise systems integration (Apache Camel, messaging, AWS)."
   },
   "nav": {
     "about": "About",
@@ -12,13 +12,13 @@
     "cv": "CV"
   },
   "hero": {
-    "available": "Seeking a work-study program in Project Management & Digital Transformation (starting September 2026)",
+    "available": "Open to Software Engineer roles · Relocation to Paris / Île-de-France",
     "greeting": "Hi, I'm",
-    "title": "Backend & Integration Engineer",
+    "title": "Software Engineer",
     "titleSeparator": "|",
-    "subtitle": "Banking & Insurance Expertise · Digital Transformation · Future Project Manager",
-    "location": "Tunisia · Open to Paris",
-    "description": "Information systems professional with <years>over 5 years</years> of experience in the banking and insurance sectors. I have designed, developed and deployed critical integration solutions for major European players. Transitioning toward project management and digital transformation, I will join the Master 2 in Project Management & Innovation at IAE Paris-Sorbonne in September 2026.",
+    "subtitle": "Backend & Integration · Banking, Insurance & Capital Markets",
+    "location": "Tunis, Tunisia · Open to relocation: Paris / Île-de-France",
+    "description": "Software Engineer with <years>6 years</years> of experience designing, developing and evolving software for banking, insurance and capital markets. Backend development in Java and Spring Boot, REST API design and enterprise systems integration, from technical design to production support.",
     "cta": {
       "contact": "Get in Touch",
       "projects": "View Projects"
@@ -28,19 +28,19 @@
   "about": {
     "sectionNumber": "01",
     "title": "About Me",
-    "intro": "I'm an information systems professional specializing in",
-    "highlight1": "designing and integrating critical solutions",
-    "intro2": "for the banking and insurance sectors. My expertise spans Java backend development, microservices architecture, distributed systems integration (Apache Camel, Enterprise Integration Patterns), API management, middleware and AWS Cloud.",
+    "intro": "I am a Software Engineer specialised in",
+    "highlight1": "backend development and enterprise systems integration",
+    "intro2": "for banking, insurance and capital markets: Java, Spring Boot, REST APIs, Apache Camel and Enterprise Integration Patterns, asynchronous messaging and AWS environments.",
     "current1": "At",
     "company": "VERMEG",
-    "current2": " since October 2020, I have contributed to the design and technical leadership of a",
-    "highlight2": "centralized integration platform used in critical financial systems",
-    "current3": "and deployed 30+ REST APIs for major European players, including several on-site client missions in Paris. Currently transitioning toward project management and digital transformation, I will join the Master 2 in Project Management & Innovation at IAE Paris-Sorbonne in September 2026.",
-    "personal": "Beyond development, I have grown into technical leadership, cross-functional coordination and innovation. I'm distinguished by my ability to understand business challenges, coordinate stakeholders in international environments, and deliver robust, maintainable, high-impact solutions.",
+    "current2": " since October 2020, I have designed and developed",
+    "highlight2": "30+ REST APIs for a leading European insurer",
+    "current3": "and contributed to a centralised integration platform between financial systems. I am also involved in running applications in production: 50+ releases, two major production deployment operations and 200+ tickets resolved, including on-site client assignments in Paris.",
+    "personal": "I use AI-assisted development tools (Cursor, GitHub Copilot, Claude) every day and contribute to an internal R&D initiative at VERMEG on generative AI in integration platforms. I am also expanding my frontend skills with Angular and TypeScript through personal projects.",
     "techTitle": "Technologies I work with daily:",
     "stats": {
       "years": "Years of Experience",
-      "users": "REST APIs in Production",
+      "users": "REST APIs Designed",
       "certifications": "Certifications",
       "languages": "Languages"
     },
@@ -51,19 +51,21 @@
     "title": "Experience",
     "jobs": {
       "vermeg_backend": {
-        "title": "Backend & Integration Engineer",
+        "title": "Software Engineer — Backend & Integration",
         "company": "VERMEG",
-        "location": "Tunisia",
+        "location": "Tunis, Tunisia · Permanent · On-site assignments in Paris",
         "period": "Oct 2020 – Present",
         "description": [
-          "Contributed to the design and technical leadership of a centralized integration platform used in critical financial systems.",
-          "Delivered insurance solutions to production for a leading European insurer.",
-          "Designed and deployed 30+ REST APIs.",
-          "Developed distributed integration solutions.",
-          "Contributed to AI and digital transformation initiatives.",
-          "Production support and hypercare.",
-          "On-site client missions in Paris.",
-          "Mentored and onboarded junior developers."
+          "Designed and developed 30+ REST APIs using Java 11 and Spring Boot for the subscription journeys of a leading European insurer (property and casualty, machinery breakdown, health, garage).",
+          "Developed integration and orchestration layers using Apache Camel and Enterprise Integration Patterns to connect heterogeneous business systems.",
+          "Contributed to a centralised integration platform acting as a broker between financial systems.",
+          "Implemented the FIX protocol using QuickFIX/J and integrated Bloomberg connectivity for custody systems and market data providers.",
+          "Developed asynchronous messaging flows using JMS, ActiveMQ, RabbitMQ and AWS SQS, including Data Lake ingestion; built an Isabel banking connector.",
+          "Contributed to 50+ releases (feature updates and patches) and participated in two major production deployment operations: preparation, Go/No-Go, deployment and hypercare.",
+          "Resolved 200+ tickets covering feature requests, defects and production incidents, from troubleshooting to fixes.",
+          "Worked with AWS, Docker, Kubernetes and Argo CD; Jenkins and GitLab CI pipelines; Maven and Nexus.",
+          "Use Cursor, GitHub Copilot and Claude day to day; contributed to an internal R&D initiative on generative AI in integration platforms.",
+          "Collaborated with international teams and European clients; mentored and onboarded junior developers."
         ]
       }
     }
@@ -78,44 +80,49 @@
     "screenshotPlaceholder": "Enterprise project",
     "items": {
       "assuranceIntegration": {
-        "title": "Insurance Integration Platform",
-        "description": "Design and integration of a distributed architecture supporting insurance underwriting journeys (P&C, Machinery Breakdown, Health, Garage, Boost). 30+ REST APIs, integration of multiple backend systems and a service-oriented architecture, deployed in a critical environment.",
-        "period": "Enterprise · Insurance"
+        "title": "Insurance Subscription APIs",
+        "description": "Designed and developed 30+ REST APIs in Java 11 and Spring Boot for the subscription journeys of a leading European insurer: property and casualty, machinery breakdown, health and garage insurance.",
+        "period": "VERMEG · Insurance"
       },
       "servicesBroker": {
-        "title": "Financial Services Broker",
-        "description": "Contributed to the design of a centralized integration platform acting as a broker between multiple financial systems. Orchestration of critical business flows, exposure of integration services and support for high-volume systems.",
-        "period": "Enterprise · Banking"
+        "title": "Centralised Integration Platform",
+        "description": "Contributed to an integration platform acting as a broker between financial systems: orchestration of critical business flows with Apache Camel and asynchronous messaging.",
+        "period": "VERMEG · Banking"
       },
       "custodianMarketData": {
-        "title": "Custodian & Market Data",
-        "description": "Integration of asset custody systems and market data. Bloomberg connectivity, QuickFIX/J implementation, integration of external data providers and processing of transactional flows.",
-        "period": "Enterprise · Markets"
+        "title": "Custody & Market Data",
+        "description": "Implemented the FIX protocol using QuickFIX/J and integrated Bloomberg connectivity for custody systems and external market data providers.",
+        "period": "VERMEG · Capital Markets"
       },
       "dataLake": {
-        "title": "Data Lake Integration",
-        "description": "Built integrations feeding a Data Lake. JMS flow management, real-time integration, data processing and distribution at scale.",
-        "period": "Enterprise · Data"
+        "title": "Data Lake Ingestion",
+        "description": "Developed asynchronous messaging flows with JMS, ActiveMQ, RabbitMQ and AWS SQS to feed a Data Lake.",
+        "period": "VERMEG · Data"
       },
       "isabelConnector": {
         "title": "Isabel Banking Connector",
-        "description": "Development and integration of an Isabel banking connector: daily transaction retrieval, processing automation, reliability and monitoring.",
-        "period": "Enterprise · Banking"
+        "description": "Developed an Isabel banking connector automating daily transaction retrieval.",
+        "period": "VERMEG · Banking"
       },
       "pentahoEtl": {
-        "title": "Pentaho Banking ETL PoC",
-        "description": "ETL proof of concept for a banking team, processing 100,000+ records per day. Data mapping and transformation, presented to banking product teams and successfully deployed.",
-        "period": "PoC · Banking"
-      },
-      "formula1": {
-        "title": "Academic Formula 1 Analytics",
-        "description": "Academic data analytics project around Formula 1: driver, circuit and season performance analysis, telemetry data exploration and interactive decision-support dashboards.",
-        "period": "Academic"
+        "title": "Banking ETL Proof of Concept",
+        "description": "ETL proof of concept for a banking team: data mapping and transformation for more than 100,000 records per day. Presented to product teams and contributed to its deployment.",
+        "period": "VERMEG · POC"
       },
       "aiPlatform": {
-        "title": "AI-Powered Integration Platform",
-        "description": "Evolution of an integration platform embedding generative AI usage: intelligent assistance, automation and improved operational efficiency to modernize integration platforms.",
-        "period": "In progress"
+        "title": "AI-Augmented Integration Platform",
+        "description": "Contributing to an enterprise-inspired integration platform enhanced with an AI assistant powered by the Claude API (Anthropic), designed to support integration-flow design and monitoring. Exploring route monitoring with CamelBee and recent Apache Camel versions.",
+        "period": "Internal R&D — VERMEG"
+      },
+      "aiSkills": {
+        "title": "Reusable Skills for AI Agents",
+        "description": "Creating reusable AI agent skills through specialised instructions and agentic workflows to support engineering tasks such as code analysis, documentation and development assistance.",
+        "period": "Personal experimentation"
+      },
+      "formula1": {
+        "title": "Formula 1 Analytics",
+        "description": "Academic data analytics project on Formula 1: driver, circuit and seasonal performance analysis, with interactive dashboards.",
+        "period": "Academic project"
       }
     }
   },
@@ -127,20 +134,19 @@
       "integration": "Integration",
       "cloud": "Cloud & DevOps",
       "data": "Data & Analytics",
-      "domain": "Banking & Insurance"
+      "domain": "Banking & Insurance",
+      "frontend": "Frontend (learning)",
+      "ai": "AI & Development Practices"
     },
     "softSkills": {
       "title": "Soft Skills",
       "items": [
-        "Technical leadership",
-        "Cross-functional coordination",
+        "Incident analysis & troubleshooting",
         "Client communication",
+        "International collaboration",
         "Mentoring",
         "Business analysis",
-        "Stakeholder management",
-        "Complex problem solving",
-        "Innovation",
-        "Digital transformation"
+        "Technical documentation"
       ]
     },
     "languages": {
@@ -164,6 +170,11 @@
         "title": "Oracle Certified Professional, Java SE 11 Developer",
         "issuer": "Oracle",
         "date": "2024"
+      },
+      "psm": {
+        "title": "Professional Scrum Master I (PSM I)",
+        "issuer": "Scrum.org",
+        "date": "2026"
       },
       "oracleArchitect": {
         "title": "Oracle Database@AWS Certified Architect Professional",
@@ -192,14 +203,8 @@
       }
     },
     "education": {
-      "master2": {
-        "degree": "Master 2 in Project Management & Innovation",
-        "institution": "IAE Paris-Sorbonne",
-        "location": "Paris, France",
-        "year": "Sept 2026"
-      },
       "esprit": {
-        "degree": "Software Engineering Degree",
+        "degree": "Engineering Degree — Software Engineering (evening programme)",
         "institution": "ESPRIT",
         "location": "Tunis, Tunisia",
         "year": "2020 - 2024"
@@ -228,7 +233,7 @@
     "sectionNumber": "06",
     "title": "Get in Touch",
     "subtitle": "Let's Work Together",
-    "description": "I'm currently seeking a work-study program in project management and digital transformation. Whether you'd like to discuss a collaboration, a project, or simply connect, my inbox is always open!",
+    "description": "I am open to Software Engineer roles in backend and integration, with relocation to Paris / Île-de-France. If you would like to discuss an opportunity or a project, feel free to get in touch.",
     "email": "Email",
     "phone": "Phone",
     "location": "Location",

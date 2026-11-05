@@ -34,6 +34,14 @@ const projectsData: ProjectData[] = [
     image: '/images/projects/custodix.png',
   },
   {
+    key: 'aiPlatform',
+    technologies: ['Java', 'Apache Camel 4', 'CamelBee', 'Claude API'],
+  },
+  {
+    key: 'aiSkills',
+    technologies: ['Claude', 'Cursor', 'GitHub Copilot', 'Prompt engineering'],
+  },
+  {
     key: 'dataLake',
     technologies: ['JMS', 'ActiveMQ', 'Java', 'Apache Camel'],
   },
@@ -49,10 +57,6 @@ const projectsData: ProjectData[] = [
     key: 'formula1',
     technologies: ['Power BI', 'Data Analytics', 'Data Modeling', 'Data Visualization'],
     image: '/images/projects/formula1/race-pulse.png',
-  },
-  {
-    key: 'aiPlatform',
-    technologies: ['Generative AI', 'Java', 'AWS', 'Enterprise Integration'],
   },
 ];
 
